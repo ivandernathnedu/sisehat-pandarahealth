@@ -1,12 +1,13 @@
-FROM php:8.2-apache
+FROM php:8.3-apache
 
-# 1. Pasang dependensi sistem & driver PostgreSQL untuk PHP
+# 1. Pasang dependensi sistem & driver MySQL + ekstensi PHP yang dibutuhkan Laravel
 RUN apt-get update && apt-get install -y \
     libpq-dev \
+    libmysqlclient-dev \
     zip \
     unzip \
     git \
-    && docker-php-ext-install pdo pdo_pgsql
+    && docker-php-ext-install pdo pdo_mysql pdo_pgsql
 
 # 2. Aktifkan modul mod_rewrite Apache untuk routing Laravel
 RUN a2enmod rewrite
