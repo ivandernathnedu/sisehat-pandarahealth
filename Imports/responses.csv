@@ -1,0 +1,442 @@
+nama_owner,email_owner,nama_umkm,sektor_usaha,umur_usaha,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10,q11,q12,q13,q14,q15,q16,q17,q18,q19,q20,q21,q22,q23,q24,q25,q26,q27,q28,q29,q30,q31,q32,q33,q34,q35
+"Owner 1",owner_1@example.com,"UMKM 1","Food and Beverage","> 3 tahun",2,2,3,2,2,3,2,3,1,4,4,4,3,4,3,4,4,5,3,5,4,5,5,5,5,5,2,2,2,2,2,1,2,1,1
+"Owner 2",owner_2@example.com,"UMKM 2","Food and Beverage","> 3 tahun",2,2,2,2,2,1,3,3,1,4,1,3,4,4,3,4,3,5,3,5,5,5,5,5,5,5,2,2,2,2,2,1,1,1,1
+"Owner 3",owner_3@example.com,"UMKM 3",Fashion,"> 3 tahun",2,2,2,1,2,1,3,3,2,4,4,3,3,3,4,3,4,3,4,4,3,3,3,2,4,5,2,2,2,2,2,1,1,1,1
+"Owner 4",owner_4@example.com,"UMKM 4",Fashion,"> 3 tahun",3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,5,4,5,5,5,5,5,5,5,1,5,2,2,2,2,2,1,1,1,2
+"Owner 5",owner_5@example.com,"UMKM 5",Fashion,"> 3 tahun",2,1,1,2,1,2,1,3,3,3,2,3,4,4,4,4,4,2,4,2,2,4,5,5,5,5,2,3,2,2,2,1,1,1,1
+"Owner 6",owner_6@example.com,"UMKM 6",Fashion,"> 3 tahun",2,1,2,2,2,1,4,3,3,4,4,4,2,2,3,3,3,2,2,2,2,2,1,3,3,3,3,2,2,3,2,2,2,1,1
+"Owner 7",owner_7@example.com,"UMKM 7","Food and Beverage","> 3 tahun",1,2,2,2,2,2,4,3,3,4,4,3,2,2,3,3,3,5,4,5,5,5,5,4,5,5,2,3,2,2,2,1,1,1,2
+"Owner 8",owner_8@example.com,"UMKM 8","Food and Beverage","1 - 3 tahun",2,2,2,2,2,1,3,4,4,4,3,4,3,4,3,4,4,4,4,3,2,4,3,3,3,4,2,2,2,4,2,1,3,1,1
+"Owner 9",owner_9@example.com,"UMKM 9","Wholesale and retail","> 3 tahun",2,2,1,2,2,2,4,4,4,4,4,4,3,4,3,5,4,5,5,5,5,5,4,5,5,5,2,3,2,2,4,1,1,1,2
+"Owner 10",owner_10@example.com,"UMKM 10",Fashion,"1 - 3 tahun",2,2,2,2,2,1,2,3,3,4,3,3,3,3,3,4,3,3,3,4,4,3,3,3,4,3,2,2,2,2,2,2,2,1,1
+"Owner 11",owner_11@example.com,"UMKM 11","Wholesale and retail","> 3 tahun",2,1,1,1,2,1,2,2,3,3,3,3,3,3,3,3,3,3,4,3,4,2,3,3,5,4,3,2,3,3,3,1,1,1,1
+"Owner 12",owner_12@example.com,"UMKM 12","Food and Beverage","1 - 3 tahun",2,1,1,1,2,2,2,3,3,4,4,2,2,2,3,3,4,5,5,4,5,5,1,4,5,5,2,2,2,2,2,2,1,1,2
+"Owner 13",owner_13@example.com,"UMKM 13",Fashion,"> 3 tahun",2,2,2,2,2,1,5,4,5,4,5,5,2,4,5,5,3,5,5,4,5,5,2,5,5,5,4,3,3,3,4,3,3,3,3
+"Owner 14",owner_14@example.com,"UMKM 14","Food and Beverage","> 3 tahun",3,1,3,1,1,1,5,4,4,4,2,2,4,4,2,3,3,5,5,5,5,5,5,2,5,5,4,3,4,2,4,2,1,3,1
+"Owner 15",owner_15@example.com,"UMKM 15","Food and Beverage","1 - 3 tahun",2,2,1,2,2,2,5,4,5,4,5,5,4,5,5,5,4,5,5,5,5,5,5,5,5,5,4,4,4,4,4,3,3,3,3
+"Owner 16",owner_16@example.com,"UMKM 16","Wholesale and retail","> 3 tahun",2,2,2,2,2,1,2,3,2,2,1,3,4,2,4,4,4,5,4,4,3,5,1,5,5,5,3,3,2,3,3,2,2,3,2
+"Owner 17",owner_17@example.com,"UMKM 17","Wholesale and retail","> 3 tahun",2,2,2,2,2,1,2,3,3,3,3,3,3,3,4,3,4,5,5,5,5,5,5,4,2,5,3,4,2,2,2,4,4,4,4
+"Owner 18",owner_18@example.com,"UMKM 18","Wholesale and retail","> 3 tahun",2,2,2,2,2,1,5,3,4,4,5,4,4,4,3,3,4,5,4,5,5,5,5,5,1,5,4,2,4,2,4,3,3,3,3
+"Owner 19",owner_19@example.com,"UMKM 19","Food and Beverage","> 3 tahun",2,1,2,2,2,1,3,3,3,3,2,3,4,4,4,4,3,4,2,4,2,4,4,4,4,2,2,2,4,2,2,1,3,1,1
+"Owner 20",owner_20@example.com,"UMKM 20",Fashion,"> 3 tahun",2,2,2,2,1,1,3,3,3,3,3,3,2,2,2,3,2,1,2,1,1,5,2,5,1,2,2,2,2,2,2,1,2,2,2
+"Owner 21",owner_21@example.com,"UMKM 21","Food and Beverage","1 - 3 tahun",2,2,2,2,2,1,2,2,2,3,2,3,2,2,1,2,2,1,2,2,1,1,1,2,5,2,2,2,3,2,2,2,2,3,3
+"Owner 22",owner_22@example.com,"UMKM 22","Food and Beverage","> 3 tahun",2,2,2,2,1,1,5,5,4,5,4,5,4,5,4,5,4,5,2,5,3,5,5,5,4,4,3,4,4,4,2,3,3,3,3
+"Owner 23",owner_23@example.com,"UMKM 23","Food and Beverage","> 3 tahun",2,1,2,2,1,1,3,3,3,3,3,3,3,3,4,4,3,1,1,4,2,1,4,4,5,2,2,1,2,2,2,1,1,1,1
+"Owner 24",owner_24@example.com,"UMKM 24","Food and Beverage","> 3 tahun",2,2,2,2,1,1,3,3,3,3,3,3,2,3,2,2,4,3,2,4,2,3,4,4,4,2,4,4,4,4,4,1,1,2,1
+"Owner 25",owner_25@example.com,"UMKM 25","Wholesale and retail","1 - 3 tahun",2,1,2,2,1,1,4,4,4,4,3,4,2,2,3,2,2,2,2,5,2,5,5,5,5,2,2,2,2,2,2,3,2,1,1
+"Owner 26",owner_26@example.com,"UMKM 26","Food and Beverage","> 3 tahun",2,3,2,3,3,3,3,3,4,3,4,4,2,2,2,2,2,2,1,5,2,4,4,5,5,2,2,2,2,2,2,2,1,1,2
+"Owner 27",owner_27@example.com,"UMKM 27","Wholesale and retail","> 3 tahun",2,2,2,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4,2,4,2,4,4,4,4,2,2,2,2,2,2,2,2,1,2
+"Owner 28",owner_28@example.com,"UMKM 28","Wholesale and retail","> 3 tahun",2,1,1,1,1,1,3,4,4,4,3,4,4,3,4,4,4,2,1,5,2,5,5,5,5,2,2,3,2,2,2,3,3,2,3
+"Owner 29",owner_29@example.com,"UMKM 29",Fashion,"> 3 tahun",1,1,1,1,1,1,4,2,4,4,4,4,4,4,4,4,3,5,2,5,2,5,5,5,5,2,3,3,2,2,2,2,2,1,2
+"Owner 30",owner_30@example.com,"UMKM 30","Wholesale and retail","> 3 tahun",2,2,2,2,1,1,5,5,5,4,5,4,4,4,5,4,5,2,1,4,2,3,3,3,5,2,2,2,3,4,4,2,2,2,2
+"Owner 31",owner_31@example.com,"UMKM 31",Fashion,"> 3 tahun",2,1,2,1,2,1,3,4,4,4,2,4,4,3,4,3,4,3,2,5,2,5,5,5,5,2,2,2,2,2,2,1,2,1,2
+"Owner 32",owner_32@example.com,"UMKM 32","Wholesale and retail","> 3 tahun",2,1,2,2,1,2,3,4,3,3,3,4,4,2,3,3,4,2,2,4,2,2,5,5,5,2,2,2,2,2,2,2,1,1,1
+"Owner 33",owner_33@example.com,"UMKM 33","Wholesale and retail","> 3 tahun",2,2,2,2,2,1,3,3,4,3,2,3,4,4,4,4,4,3,1,4,2,5,5,5,5,2,3,3,3,3,3,2,1,2,1
+"Owner 34",owner_34@example.com,"UMKM 34","Wholesale and retail","> 3 tahun",2,1,2,2,1,2,4,4,4,1,4,4,4,4,4,4,4,2,2,4,2,5,5,5,5,2,2,2,2,2,2,2,2,2,2
+"Owner 35",owner_35@example.com,"UMKM 35",Fashion,"> 3 tahun",2,2,2,2,1,1,3,3,3,4,3,4,4,4,4,5,4,5,2,5,2,5,1,5,5,2,2,2,3,2,2,2,3,2,2
+"Owner 36",owner_36@example.com,"UMKM 36",Fashion,"1 - 3 tahun",1,1,1,1,1,1,3,4,4,1,3,4,4,4,4,3,3,2,1,5,2,4,5,5,5,1,3,3,2,3,3,2,2,3,2
+"Owner 37",owner_37@example.com,"UMKM 37","Food and Beverage","> 3 tahun",2,2,1,1,2,2,1,4,4,2,1,2,3,3,3,4,4,2,1,5,2,2,1,2,2,1,2,2,4,2,2,1,2,2,2
+"Owner 38",owner_38@example.com,"UMKM 38","Wholesale and retail","> 3 tahun",3,3,3,3,3,3,3,3,3,3,2,3,3,2,4,4,3,5,2,4,1,3,4,4,4,2,2,2,2,2,2,2,2,2,2
+"Owner 39",owner_39@example.com,"UMKM 39","Food and Beverage","> 3 tahun",2,1,2,2,2,1,3,3,3,3,3,4,2,2,2,1,2,5,2,4,1,3,3,3,5,2,2,2,2,2,2,2,3,2,3
+"Owner 40",owner_40@example.com,"UMKM 40",Fashion,"1 - 3 tahun",2,1,2,2,1,1,3,4,2,4,2,3,3,3,2,3,3,2,1,4,2,5,1,5,5,2,3,3,3,3,3,2,1,1,1
+"Owner 41",owner_41@example.com,"UMKM 41","Food and Beverage","> 3 tahun",2,1,2,2,1,1,3,3,3,3,3,3,2,3,1,4,2,2,1,4,2,3,3,4,3,2,2,2,2,2,2,2,2,2,2
+"Owner 42",owner_42@example.com,"UMKM 42","Food and Beverage","> 3 tahun",2,2,2,2,1,1,4,3,4,2,3,4,2,2,2,1,2,3,3,4,1,4,4,4,4,2,2,2,2,2,2,3,2,1,2
+"Owner 43",owner_43@example.com,"UMKM 43",Fashion,"> 3 tahun",2,1,2,2,2,2,3,2,4,4,4,4,1,2,2,4,2,4,2,4,2,4,4,4,4,2,2,2,2,2,2,1,1,2,2
+"Owner 44",owner_44@example.com,"UMKM 44","Food and Beverage","> 3 tahun",2,2,2,2,1,1,4,5,4,4,5,4,4,5,4,4,5,1,2,5,2,5,5,5,5,2,1,2,1,2,1,3,3,3,3
+"Owner 45",owner_45@example.com,"UMKM 45","Wholesale and retail","1 - 3 tahun",2,1,2,2,1,1,3,2,2,3,2,3,2,2,4,2,3,2,1,5,2,5,4,5,5,2,2,2,2,2,2,1,2,1,1
+"Owner 46",owner_46@example.com,"UMKM 46",Fashion,"> 3 tahun",2,2,2,2,1,1,4,4,4,3,4,4,2,2,2,2,1,1,1,4,2,5,5,4,5,2,2,2,2,2,2,1,2,2,2
+"Owner 47",owner_47@example.com,"UMKM 47","Food and Beverage","> 3 tahun",3,3,3,3,2,2,4,5,4,4,3,4,3,1,2,5,1,5,3,3,5,5,3,3,4,5,4,4,3,2,2,3,3,2,2
+"Owner 48",owner_48@example.com,"UMKM 48","Wholesale and retail","1 - 3 tahun",3,3,3,3,2,3,5,5,5,5,5,4,5,5,3,5,4,2,3,3,5,4,3,4,5,4,3,4,4,4,3,3,3,3,3
+"Owner 49",owner_49@example.com,"UMKM 49","Food and Beverage","1 - 3 tahun",2,2,2,3,2,3,2,3,4,4,3,3,2,2,2,2,2,5,4,4,5,5,5,4,4,4,2,2,2,2,2,2,3,2,2
+"Owner 50",owner_50@example.com,"UMKM 50","Food and Beverage","> 3 tahun",3,3,3,2,2,3,5,5,4,5,5,5,5,5,4,5,4,1,4,4,4,5,2,4,4,4,3,4,3,3,4,2,2,2,2
+"Owner 51",owner_51@example.com,"UMKM 51","Food and Beverage","> 3 tahun",3,2,2,2,2,1,2,3,3,4,1,2,2,2,2,2,1,5,4,4,5,1,3,3,5,5,2,2,2,2,2,2,1,1,2
+"Owner 52",owner_52@example.com,"UMKM 52","Food and Beverage","> 3 tahun",2,2,1,2,2,1,5,5,5,5,4,5,3,5,4,5,4,2,4,4,5,5,4,4,4,4,4,4,4,3,4,3,3,3,3
+"Owner 53",owner_53@example.com,"UMKM 53","Food and Beverage","> 3 tahun",2,2,1,2,2,1,2,4,3,3,2,2,2,2,2,1,2,4,5,3,5,3,3,3,3,5,2,2,2,2,1,2,1,1,2
+"Owner 54",owner_54@example.com,"UMKM 54","Food and Beverage","> 3 tahun",2,2,1,2,2,2,3,2,3,3,2,3,3,3,3,4,3,1,2,1,5,4,1,1,1,1,3,2,2,2,2,3,1,1,1
+"Owner 55",owner_55@example.com,"UMKM 55","Food and Beverage","> 3 tahun",4,4,4,4,4,4,1,3,1,2,1,1,2,2,2,2,2,2,1,1,1,3,1,1,5,4,1,2,1,2,1,2,2,1,2
+"Owner 56",owner_56@example.com,"UMKM 56","Food and Beverage","> 3 tahun",4,3,4,4,4,4,1,3,1,4,1,1,1,2,2,2,1,5,2,1,5,1,1,1,1,1,2,2,2,2,2,1,1,1,3
+"Owner 57",owner_57@example.com,"UMKM 57","Food and Beverage","> 3 tahun",3,2,3,3,2,3,5,4,4,5,4,4,5,4,5,4,5,4,4,5,5,5,5,5,5,5,4,4,3,4,4,3,3,3,2
+"Owner 58",owner_58@example.com,"UMKM 58","Food and Beverage","> 3 tahun",2,1,2,1,2,3,2,3,4,4,4,4,2,2,4,2,1,4,4,5,5,5,5,3,5,5,2,2,2,2,2,2,2,2,1
+"Owner 59",owner_59@example.com,"UMKM 59","Food and Beverage","> 3 tahun",1,2,1,2,2,3,2,3,4,4,4,4,2,2,3,4,3,5,5,5,5,1,5,1,5,5,2,2,2,2,2,2,2,2,2
+"Owner 60",owner_60@example.com,"UMKM 60","Food and Beverage","> 3 tahun",1,2,1,2,1,1,2,3,4,4,4,4,3,4,3,4,3,4,5,5,5,5,5,5,5,5,4,2,2,2,4,2,2,2,2
+"Owner 61",owner_61@example.com,"UMKM 61","Wholesale and retail","> 3 tahun",2,2,3,2,3,3,2,3,4,4,4,3,2,3,3,3,2,4,4,4,4,1,5,5,5,5,2,1,2,2,2,1,1,1,1
+"Owner 62",owner_62@example.com,"UMKM 62","Food and Beverage","> 3 tahun",2,2,2,2,2,1,2,3,4,3,4,4,3,3,3,3,3,3,5,5,3,4,4,2,4,5,2,2,2,2,2,2,3,3,3
+"Owner 63",owner_63@example.com,"UMKM 63","Food and Beverage","1 - 3 tahun",2,2,2,2,2,1,2,3,3,2,3,3,3,3,3,3,3,2,3,3,3,4,3,3,5,4,2,2,2,2,2,1,2,1,2
+"Owner 64",owner_64@example.com,"UMKM 64","Food and Beverage","> 3 tahun",3,2,3,2,3,2,2,3,3,3,3,3,3,2,3,3,3,3,3,4,3,4,3,2,4,4,2,2,2,2,2,2,2,2,2
+"Owner 65",owner_65@example.com,"UMKM 65","Food and Beverage","> 3 tahun",2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,1,3,5,4,4,3,3,3,2,5,4,2,2,1,2,2,1,1,1,1
+"Owner 66",owner_66@example.com,"UMKM 66","Wholesale and retail","> 3 tahun",2,2,2,2,2,2,2,2,2,3,2,2,3,2,2,2,2,5,4,5,4,5,5,5,4,5,3,2,1,1,1,1,2,1,2
+"Owner 67",owner_67@example.com,"UMKM 67","Food and Beverage","< 1 tahun",2,2,2,2,2,1,2,1,2,2,1,2,2,1,2,2,2,5,4,3,5,5,5,5,5,5,1,1,1,1,1,1,1,1,2
+"Owner 68",owner_68@example.com,"UMKM 68","Food and Beverage","> 3 tahun",2,2,2,2,2,1,5,5,4,4,5,4,5,5,4,5,4,5,4,1,5,5,5,4,3,5,3,3,3,3,3,3,3,2,2
+"Owner 69",owner_69@example.com,"UMKM 69",Fashion,"> 3 tahun",2,2,2,2,2,1,5,4,4,5,4,4,4,4,5,4,4,1,4,1,5,5,5,5,5,5,4,3,4,4,4,4,4,4,4
+"Owner 70",owner_70@example.com,"UMKM 70","Food and Beverage","> 3 tahun",2,2,2,2,2,2,5,4,5,3,3,5,4,4,5,4,5,5,4,4,5,5,1,5,4,5,3,3,3,3,3,2,2,3,2
+"Owner 71",owner_71@example.com,"UMKM 71","Food and Beverage","1 - 3 tahun",3,3,3,2,3,1,5,5,4,5,4,5,4,4,5,3,4,1,3,5,5,5,5,3,5,5,3,3,3,3,3,1,1,1,1
+"Owner 72",owner_72@example.com,"UMKM 72","Wholesale and retail","> 3 tahun",2,2,3,3,3,2,4,5,5,4,5,5,5,4,4,5,5,4,3,4,4,5,5,2,5,5,3,3,3,3,3,3,2,2,2
+"Owner 73",owner_73@example.com,"UMKM 73","Food and Beverage","1 - 3 tahun",3,2,2,2,3,3,4,3,3,3,3,3,3,3,3,4,3,3,4,4,4,3,4,3,4,4,2,3,2,2,3,2,2,2,2
+"Owner 74",owner_74@example.com,"UMKM 74","Food and Beverage","> 3 tahun",2,2,2,2,2,2,2,3,4,4,4,4,3,3,3,3,3,1,4,4,4,4,4,4,5,4,2,2,2,2,3,2,2,2,2
+"Owner 75",owner_75@example.com,"UMKM 75","Food and Beverage","1 - 3 tahun",2,2,2,2,2,1,4,3,3,4,3,4,3,3,2,4,4,3,4,4,4,4,4,3,3,5,2,3,3,3,2,2,2,2,2
+"Owner 76",owner_76@example.com,"UMKM 76","Wholesale and retail","> 3 tahun",2,2,2,2,2,2,4,5,5,5,4,5,4,4,3,4,4,4,3,5,4,5,4,1,4,5,3,3,3,3,3,2,3,2,2
+"Owner 77",owner_77@example.com,"UMKM 77","Food and Beverage","> 3 tahun",2,2,2,2,2,1,5,5,4,5,4,5,4,4,3,4,4,4,3,4,4,5,5,1,5,5,3,3,3,3,3,2,3,2,3
+"Owner 78",owner_78@example.com,"UMKM 78","Food and Beverage","> 3 tahun",2,2,2,2,2,2,2,2,2,3,2,3,3,4,3,3,3,3,4,3,3,4,1,2,5,5,3,3,3,2,2,2,1,2,1
+"Owner 79",owner_79@example.com,"UMKM 79","Food and Beverage","1 - 3 tahun",2,2,2,2,2,2,2,3,3,3,3,3,2,2,2,3,2,4,4,4,4,4,4,4,4,4,2,2,3,3,2,2,2,2,2
+"Owner 80",owner_80@example.com,"UMKM 80",Fashion,"> 3 tahun",3,2,1,3,2,3,4,4,3,4,4,4,5,5,5,4,5,2,2,1,2,2,2,2,5,2,3,4,2,3,3,3,3,2,3
+"Owner 81",owner_81@example.com,"UMKM 81",Fashion,"> 3 tahun",2,3,2,2,3,3,3,3,3,3,3,3,1,2,1,2,2,4,4,4,2,4,4,4,4,4,3,2,3,3,2,2,2,1,2
+"Owner 82",owner_82@example.com,"UMKM 82",Fashion,"> 3 tahun",1,2,1,2,2,1,3,4,4,4,4,4,4,5,5,4,5,5,4,5,5,5,5,5,5,5,3,3,3,3,3,2,2,2,2
+"Owner 83",owner_83@example.com,"UMKM 83","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,3,3,4,4,4,4,4,5,4,5,5,5,4,5,5,5,5,2,5,5,3,3,3,3,3,2,2,1,2
+"Owner 84",owner_84@example.com,"UMKM 84","Food and Beverage","> 3 tahun",2,2,1,2,2,1,3,3,4,4,4,4,5,4,5,3,5,5,4,5,5,5,5,2,5,5,3,3,3,3,3,2,3,1,3
+"Owner 85",owner_85@example.com,"UMKM 85","Wholesale and retail","> 3 tahun",3,2,3,2,3,3,2,3,4,4,4,4,4,4,4,5,4,2,1,2,2,1,2,1,1,2,3,3,3,3,3,2,1,1,2
+"Owner 86",owner_86@example.com,"UMKM 86","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,4,4,3,3,4,4,5,4,4,4,5,4,5,5,5,5,5,5,5,4,4,4,4,4,3,3,3,3
+"Owner 87",owner_87@example.com,"UMKM 87","Food and Beverage","1 - 3 tahun",2,2,1,2,2,1,2,3,4,3,2,3,5,4,5,5,4,2,4,2,5,4,5,5,4,5,4,4,3,4,4,4,3,4,4
+"Owner 88",owner_88@example.com,"UMKM 88",Fashion,"> 3 tahun",3,2,1,2,3,3,1,2,1,2,2,2,2,2,1,2,2,4,3,4,4,4,4,4,4,5,1,1,2,1,1,1,2,1,2
+"Owner 89",owner_89@example.com,"UMKM 89","Food and Beverage","> 3 tahun",3,2,1,2,3,3,2,3,4,4,4,4,5,4,5,4,5,5,4,5,5,5,5,2,5,5,3,3,4,3,3,1,1,1,1
+"Owner 90",owner_90@example.com,"UMKM 90","Food and Beverage","1 - 3 tahun",2,2,1,2,2,2,3,2,2,1,3,2,4,2,2,2,2,4,3,4,4,3,4,3,4,4,2,2,2,2,1,4,3,4,4
+"Owner 91",owner_91@example.com,"UMKM 91","Food and Beverage","> 3 tahun",2,2,1,2,2,1,2,3,4,4,4,4,1,1,4,4,4,5,4,5,5,5,5,2,5,5,3,2,4,4,4,1,2,1,2
+"Owner 92",owner_92@example.com,"UMKM 92","Food and Beverage","> 3 tahun",3,2,1,3,3,2,2,1,3,2,3,2,2,2,2,1,2,4,4,4,4,5,5,5,4,4,2,2,2,2,1,1,1,1,1
+"Owner 93",owner_93@example.com,"UMKM 93","Food and Beverage","> 3 tahun",3,3,1,3,2,3,2,3,2,3,2,2,2,2,4,2,4,3,4,4,3,5,5,4,4,4,2,2,2,2,2,1,1,1,2
+"Owner 94",owner_94@example.com,"UMKM 94","Food and Beverage","> 3 tahun",3,2,1,2,2,2,2,1,1,2,1,2,2,2,2,2,1,2,2,4,2,1,2,2,2,2,1,1,1,1,1,1,1,1,1
+"Owner 95",owner_95@example.com,"UMKM 95","Food and Beverage","1 - 3 tahun",2,2,1,2,2,2,5,4,5,5,5,4,5,3,5,5,5,4,2,4,4,4,4,4,4,4,4,4,3,4,2,4,3,4,4
+"Owner 96",owner_96@example.com,"UMKM 96","Food and Beverage","< 1 tahun",2,2,1,2,2,2,2,3,3,3,3,3,3,2,4,2,4,4,4,2,4,5,5,5,5,5,3,2,3,2,2,3,4,3,3
+"Owner 97",owner_97@example.com,"UMKM 97","Wholesale and retail","> 3 tahun",2,2,1,2,2,2,1,2,1,2,1,2,1,1,2,1,2,4,5,4,2,4,4,4,4,4,1,1,1,1,1,1,1,2,2
+"Owner 98",owner_98@example.com,"UMKM 98","Food and Beverage","> 3 tahun",3,3,1,3,3,3,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,1,1,1,1,1,1,1,2,2
+"Owner 99",owner_99@example.com,"UMKM 99","Food and Beverage","> 3 tahun",2,3,1,2,2,1,2,2,2,3,2,2,3,1,3,1,2,5,4,5,2,4,4,4,4,4,2,2,2,1,1,2,1,1,1
+"Owner 100",owner_100@example.com,"UMKM 100",Fashion,"1 - 3 tahun",3,3,1,3,3,3,4,3,3,3,3,3,2,2,3,3,3,5,4,5,5,5,5,5,5,5,2,2,2,2,2,2,2,2,2
+"Owner 101",owner_101@example.com,"UMKM 101","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,2,1,2,3,2,2,2,2,1,2,5,4,5,2,5,5,3,5,5,1,1,1,1,1,1,1,1,1
+"Owner 102",owner_102@example.com,"UMKM 102","Food and Beverage","> 3 tahun",2,2,1,2,2,1,2,2,1,2,4,2,2,2,2,2,2,4,3,4,2,4,4,4,4,4,2,2,2,2,2,1,1,1,1
+"Owner 103",owner_103@example.com,"UMKM 103","Food and Beverage","> 3 tahun",2,2,1,2,2,1,2,2,2,1,1,2,2,2,2,2,1,5,4,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1,1
+"Owner 104",owner_104@example.com,"UMKM 104",Fashion,"> 3 tahun",2,2,2,2,2,1,2,2,3,2,3,2,3,3,3,4,4,4,4,4,4,5,5,5,5,5,2,2,2,2,2,1,1,1,1
+"Owner 105",owner_105@example.com,"UMKM 105",Fashion,"> 3 tahun",2,2,1,2,2,1,2,3,4,4,4,4,4,4,4,4,5,5,4,5,5,5,5,5,5,5,3,3,4,3,3,3,4,4,4
+"Owner 106",owner_106@example.com,"UMKM 106",Fashion,"> 3 tahun",2,2,1,2,2,1,2,3,4,4,4,4,4,4,5,4,5,5,4,5,5,5,5,5,5,5,4,4,2,4,3,4,4,3,3
+"Owner 107",owner_107@example.com,"UMKM 107",Fashion,"1 - 3 tahun",3,3,1,3,3,3,2,3,3,3,3,3,3,4,3,4,4,4,4,4,4,4,4,2,3,5,2,2,1,2,2,2,2,2,2
+"Owner 108",owner_108@example.com,"UMKM 108","Food and Beverage","> 3 tahun",2,2,2,2,2,1,3,3,1,1,1,1,1,1,5,3,3,5,5,5,3,2,1,2,2,2,2,2,1,2,1,2,2,1,2
+"Owner 109",owner_109@example.com,"UMKM 109","Food and Beverage","> 3 tahun",3,3,1,3,3,3,2,2,2,2,1,2,4,2,4,4,2,3,4,3,4,4,4,3,4,4,1,1,1,1,1,1,1,1,1
+"Owner 110",owner_110@example.com,"UMKM 110","Food and Beverage","> 3 tahun",3,3,1,3,3,3,3,1,3,1,2,1,1,2,2,1,2,2,4,2,2,2,2,2,2,2,1,1,1,1,1,1,2,1,2
+"Owner 111",owner_111@example.com,"UMKM 111","Food and Beverage","1 - 3 tahun",2,2,1,2,2,2,2,3,1,2,1,1,2,2,5,5,4,2,5,2,3,2,2,2,2,2,1,2,1,1,1,1,2,1,2
+"Owner 112",owner_112@example.com,"UMKM 112","Food and Beverage","1 - 3 tahun",2,2,1,2,2,2,2,2,2,2,2,2,2,3,1,2,2,2,5,2,3,2,2,2,2,2,2,1,1,2,1,1,2,1,2
+"Owner 113",owner_113@example.com,"UMKM 113","Food and Beverage","< 1 tahun",2,2,2,2,2,2,1,2,1,1,5,1,2,3,5,4,5,2,2,2,2,1,2,2,2,2,1,1,1,1,1,2,3,2,3
+"Owner 114",owner_114@example.com,"UMKM 114","Food and Beverage","1 - 3 tahun",2,1,1,2,2,1,2,2,2,2,2,2,2,3,4,5,5,3,5,2,2,1,2,2,5,3,2,2,1,1,3,1,2,1,2
+"Owner 115",owner_115@example.com,"UMKM 115","Food and Beverage","1 - 3 tahun",1,2,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,2,1,2,1,1,2,2,2,3,2
+"Owner 116",owner_116@example.com,"UMKM 116","Food and Beverage","1 - 3 tahun",2,2,1,2,2,1,1,3,1,1,1,1,4,3,4,3,3,5,2,2,2,2,2,2,2,5,1,1,2,3,1,1,2,1,2
+"Owner 117",owner_117@example.com,"UMKM 117",Fashion,"1 - 3 tahun",2,3,4,4,4,4,2,2,2,2,2,2,2,2,2,2,2,2,3,3,2,2,2,2,5,3,2,1,1,1,2,1,1,1,1
+"Owner 118",owner_118@example.com,"UMKM 118","Food and Beverage","> 3 tahun",2,2,2,2,2,1,2,2,2,2,2,2,2,3,3,4,2,3,2,2,2,2,2,2,5,2,1,2,1,2,1,2,2,2,2
+"Owner 119",owner_119@example.com,"UMKM 119",Fashion,"> 3 tahun",2,2,2,2,2,1,2,2,2,2,2,2,2,4,4,4,4,4,2,2,3,2,2,2,5,2,1,4,1,1,1,1,1,1,1
+"Owner 120",owner_120@example.com,"UMKM 120",Fashion,"> 3 tahun",2,2,2,2,2,1,1,2,2,2,2,1,3,1,3,3,3,3,5,5,4,2,5,4,5,2,2,3,2,2,2,1,1,1,1
+"Owner 121",owner_121@example.com,"UMKM 121",Fashion,"> 3 tahun",2,2,2,2,2,1,2,1,2,2,1,1,3,1,4,4,4,4,4,4,4,4,4,2,4,4,2,2,1,2,2,1,2,1,2
+"Owner 122",owner_122@example.com,"UMKM 122","Food and Beverage","1 - 3 tahun",2,2,2,2,2,2,2,2,2,1,2,1,2,2,1,2,2,2,2,2,2,2,2,2,5,2,2,2,2,2,2,1,1,1,1
+"Owner 123",owner_123@example.com,"UMKM 123","Food and Beverage","> 3 tahun",2,1,2,2,1,2,2,2,5,2,2,2,4,4,4,4,4,4,1,4,4,1,2,4,3,3,1,1,4,1,1,1,1,1,1
+"Owner 124",owner_124@example.com,"UMKM 124","Food and Beverage","> 3 tahun",2,2,2,1,2,1,3,4,3,3,5,3,5,5,5,5,4,3,4,4,3,3,3,4,4,4,4,4,4,4,4,2,1,2,2
+"Owner 125",owner_125@example.com,"UMKM 125","Food and Beverage","> 3 tahun",2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,5,2,2,2,2,2,2,2,5,2,1,3,2,3,1,2,2,2,2
+"Owner 126",owner_126@example.com,"UMKM 126","Food and Beverage","> 3 tahun",2,1,2,2,2,1,2,2,2,2,2,2,4,1,4,4,3,4,5,4,4,4,5,5,4,4,2,2,2,2,2,1,1,1,1
+"Owner 127",owner_127@example.com,"UMKM 127","Food and Beverage","> 3 tahun",2,1,2,2,1,1,2,2,2,2,2,2,4,4,4,4,1,2,3,2,2,2,2,2,5,2,1,2,3,2,2,2,1,1,1
+"Owner 128",owner_128@example.com,"UMKM 128","Food and Beverage","> 3 tahun",1,1,1,1,1,1,2,2,2,2,2,2,2,3,4,3,4,4,4,5,4,4,1,4,4,4,4,4,4,4,4,4,3,4,4
+"Owner 129",owner_129@example.com,"UMKM 129","Food and Beverage","> 3 tahun",2,1,2,2,1,2,3,3,3,3,3,3,3,2,3,1,2,4,2,2,2,2,2,2,2,2,2,1,3,4,2,4,4,4,4
+"Owner 130",owner_130@example.com,"UMKM 130","Wholesale and retail","> 3 tahun",2,1,2,2,1,1,2,2,2,2,2,2,2,1,1,1,1,4,4,5,4,4,3,4,5,4,2,3,2,2,3,2,2,1,2
+"Owner 131",owner_131@example.com,"UMKM 131","Food and Beverage","> 3 tahun",3,3,3,3,3,3,2,2,2,1,1,2,5,5,4,5,4,5,4,4,4,5,5,5,5,5,3,3,3,4,3,1,2,1,2
+"Owner 132",owner_132@example.com,"UMKM 132","Food and Beverage","1 - 3 tahun",2,1,2,2,1,2,3,3,2,3,2,3,4,4,4,4,5,4,3,4,5,5,5,4,4,4,3,3,3,3,3,2,1,1,2
+"Owner 133",owner_133@example.com,"UMKM 133","Wholesale and retail","> 3 tahun",2,2,2,2,2,2,4,4,4,4,4,4,4,5,4,5,5,5,5,4,3,3,5,2,2,2,2,3,4,4,4,4,4,4,4
+"Owner 134",owner_134@example.com,"UMKM 134","Food and Beverage","1 - 3 tahun",2,1,2,2,1,2,2,2,2,2,2,2,2,3,3,3,2,4,5,3,4,3,3,3,5,3,2,3,2,3,3,2,2,1,1
+"Owner 135",owner_135@example.com,"UMKM 135","Food and Beverage","> 3 tahun",2,1,2,2,1,1,3,3,2,3,2,2,1,5,1,5,5,5,5,5,5,5,5,5,5,5,2,3,2,2,2,2,2,1,2
+"Owner 136",owner_136@example.com,"UMKM 136","Wholesale and retail","> 3 tahun",2,1,2,2,1,1,1,1,2,1,2,2,3,3,3,3,4,4,4,4,5,5,4,5,5,5,2,2,2,1,2,2,2,2,2
+"Owner 137",owner_137@example.com,"UMKM 137","Food and Beverage","> 3 tahun",2,2,2,2,1,1,1,2,1,2,1,2,3,3,3,3,4,4,4,5,5,5,5,5,1,5,1,2,2,4,3,2,2,2,1
+"Owner 138",owner_138@example.com,"UMKM 138","Food and Beverage","> 3 tahun",2,3,2,2,1,1,1,2,1,1,1,5,2,2,2,2,1,4,4,4,5,5,4,5,5,5,3,3,3,3,3,2,2,2,2
+"Owner 139",owner_139@example.com,"UMKM 139","Food and Beverage","> 3 tahun",2,1,2,2,1,1,2,2,2,2,2,2,2,3,3,3,4,4,2,2,2,2,2,2,5,2,2,2,2,2,2,1,2,1,2
+"Owner 140",owner_140@example.com,"UMKM 140","Food and Beverage","> 3 tahun",2,1,2,2,2,1,2,3,2,3,2,2,2,2,2,2,1,2,5,2,2,2,2,2,5,2,2,2,1,2,2,1,1,1,1
+"Owner 141",owner_141@example.com,"UMKM 141","Food and Beverage","> 3 tahun",2,2,1,2,1,1,3,3,4,3,3,3,5,4,4,4,4,2,2,4,4,2,2,2,5,2,2,2,2,2,4,4,3,4,4
+"Owner 142",owner_142@example.com,"UMKM 142","Food and Beverage","< 1 tahun",2,2,1,2,2,2,4,4,4,4,4,5,5,5,4,5,4,5,5,5,4,5,4,4,5,5,3,4,3,4,3,2,2,2,1
+"Owner 143",owner_143@example.com,"UMKM 143",Fashion,"> 3 tahun",2,2,1,2,2,2,2,1,1,2,2,2,1,4,4,4,4,2,5,5,2,2,5,5,2,2,2,2,2,2,1,1,1,2,2
+"Owner 144",owner_144@example.com,"UMKM 144","Food and Beverage","> 3 tahun",2,2,1,2,2,1,4,4,3,4,3,3,1,4,5,5,5,2,2,2,2,2,2,2,2,2,4,3,4,3,2,2,2,2,2
+"Owner 145",owner_145@example.com,"UMKM 145","Food and Beverage","> 3 tahun",1,2,1,1,1,1,3,2,3,3,3,3,5,5,5,5,5,5,5,5,4,5,4,5,5,5,2,1,2,4,2,2,2,2,2
+"Owner 146",owner_146@example.com,"UMKM 146","Food and Beverage","> 3 tahun",2,3,1,3,3,1,2,2,1,2,1,2,3,3,2,3,3,5,5,2,2,2,2,2,2,2,1,2,1,2,2,2,2,2,2
+"Owner 147",owner_147@example.com,"UMKM 147","Food and Beverage","> 3 tahun",2,2,1,2,2,1,2,1,2,2,2,2,4,4,5,5,5,2,3,2,2,3,3,3,3,2,2,2,2,2,2,2,2,2,2
+"Owner 148",owner_148@example.com,"UMKM 148","Food and Beverage","> 3 tahun",2,2,1,2,2,1,4,4,4,4,4,4,4,2,2,2,2,4,4,4,4,4,4,2,4,5,4,4,4,4,4,4,4,3,4
+"Owner 149",owner_149@example.com,"UMKM 149","Food and Beverage","> 3 tahun",2,2,1,2,2,2,2,2,2,2,2,2,4,4,5,5,5,1,1,1,1,2,1,2,1,2,2,2,2,3,2,2,2,2,2
+"Owner 150",owner_150@example.com,"UMKM 150","Food and Beverage","> 3 tahun",2,2,1,2,2,2,4,4,3,4,3,3,1,4,4,4,4,4,4,5,3,3,2,3,5,2,3,3,4,2,4,4,3,3,4
+"Owner 151",owner_151@example.com,"UMKM 151","Food and Beverage","< 1 tahun",1,2,1,2,1,2,4,4,4,4,4,4,4,3,3,3,3,2,2,1,2,1,2,2,5,2,4,4,4,4,2,4,4,3,4
+"Owner 152",owner_152@example.com,"UMKM 152","Food and Beverage","< 1 tahun",2,2,2,2,2,1,3,3,3,3,3,3,3,4,4,4,4,3,3,3,3,3,4,3,5,3,2,4,2,2,2,2,2,2,2
+"Owner 153",owner_153@example.com,"UMKM 153","Food and Beverage","> 3 tahun",3,3,1,3,3,3,2,2,2,2,2,2,2,3,3,3,3,2,2,2,1,2,1,2,5,1,2,1,2,1,2,2,2,2,2
+"Owner 154",owner_154@example.com,"UMKM 154","Food and Beverage","< 1 tahun",2,2,1,2,2,2,4,4,4,3,3,4,4,2,2,2,2,2,2,1,3,2,2,3,2,2,2,4,2,2,2,2,2,2,2
+"Owner 155",owner_155@example.com,"UMKM 155","Food and Beverage","< 1 tahun",2,2,1,2,2,3,2,2,2,2,2,2,3,3,4,4,4,3,3,4,3,2,3,3,3,3,3,3,3,1,3,3,3,3,3
+"Owner 156",owner_156@example.com,"UMKM 156","Food and Beverage","1 - 3 tahun",3,2,1,2,3,3,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,2,1,2,2,4,3,3,3,2
+"Owner 157",owner_157@example.com,"UMKM 157","Food and Beverage","> 3 tahun",2,2,1,1,2,1,3,2,4,4,3,3,3,4,3,4,3,4,4,3,1,3,3,2,5,5,2,1,2,2,2,2,2,2,2
+"Owner 158",owner_158@example.com,"UMKM 158","Food and Beverage","< 1 tahun",3,3,1,3,3,3,4,4,4,4,4,4,4,4,5,4,4,2,5,5,5,5,5,5,5,5,2,2,2,2,2,3,2,2,2
+"Owner 159",owner_159@example.com,"UMKM 159","Food and Beverage","> 3 tahun",2,2,1,2,2,1,3,3,3,2,3,4,3,3,2,3,2,2,2,2,1,4,5,5,5,5,2,2,2,2,2,2,2,2,2
+"Owner 160",owner_160@example.com,"UMKM 160","Food and Beverage","> 3 tahun",2,1,1,2,2,1,3,3,4,4,4,4,2,5,4,4,4,2,1,3,3,1,4,3,5,3,2,2,2,2,2,2,2,1,1
+"Owner 161",owner_161@example.com,"UMKM 161","Food and Beverage","> 3 tahun",1,2,1,2,2,2,2,3,4,2,2,1,2,3,4,5,3,5,5,5,5,5,5,4,5,5,3,4,3,4,4,4,4,3,4
+"Owner 162",owner_162@example.com,"UMKM 162","Food and Beverage","> 3 tahun",2,2,1,2,2,1,4,4,1,3,4,3,2,3,2,2,3,2,3,4,4,3,3,3,3,4,2,2,2,2,1,1,1,1,1
+"Owner 163",owner_163@example.com,"UMKM 163","Food and Beverage","> 3 tahun",2,2,1,2,2,1,4,4,4,3,3,4,4,2,3,2,3,2,3,2,3,3,3,3,3,3,2,2,2,2,2,1,2,1,2
+"Owner 164",owner_164@example.com,"UMKM 164","Wholesale and retail","> 3 tahun",2,2,1,2,2,2,3,2,2,1,4,2,3,2,3,3,3,2,4,3,4,3,2,3,5,3,2,2,2,2,2,2,1,1,1
+"Owner 165",owner_165@example.com,"UMKM 165","Food and Beverage","> 3 tahun",1,2,1,2,2,2,4,4,2,2,2,4,3,2,3,3,2,2,4,4,4,4,3,4,5,3,2,2,2,2,2,2,1,1,1
+"Owner 166",owner_166@example.com,"UMKM 166","Food and Beverage","< 1 tahun",2,2,1,2,2,2,4,4,4,3,4,4,2,2,3,3,3,5,5,5,5,5,5,5,5,5,4,3,4,4,4,1,2,2,2
+"Owner 167",owner_167@example.com,"UMKM 167","Wholesale and retail","1 - 3 tahun",2,1,2,2,2,1,3,3,3,2,3,3,4,4,4,3,3,2,4,4,4,4,4,4,5,5,4,4,4,3,4,3,2,1,2
+"Owner 168",owner_168@example.com,"UMKM 168","Food and Beverage","1 - 3 tahun",2,2,2,2,1,1,2,4,4,4,4,4,4,4,4,4,3,2,2,2,2,3,2,2,1,2,2,3,2,3,1,1,2,1,1
+"Owner 169",owner_169@example.com,"UMKM 169","Wholesale and retail","> 3 tahun",1,1,1,1,1,1,2,2,1,3,1,2,2,4,5,3,3,2,4,3,3,4,3,3,3,2,3,3,2,3,3,1,1,1,2
+"Owner 170",owner_170@example.com,"UMKM 170",Fashion,"> 3 tahun",2,2,1,1,2,2,4,4,2,1,2,3,1,3,2,2,2,2,2,1,2,2,5,2,2,1,1,1,1,1,1,1,2,2,2
+"Owner 171",owner_171@example.com,"UMKM 171","Food and Beverage","> 3 tahun",3,4,3,4,4,3,3,3,3,2,3,3,2,3,3,2,2,3,3,3,3,3,3,3,5,2,2,2,1,2,2,2,1,2,2
+"Owner 172",owner_172@example.com,"UMKM 172",Fashion,"> 3 tahun",2,1,2,2,2,1,2,2,1,2,2,2,3,3,2,2,2,2,2,2,3,3,3,3,5,2,2,2,2,2,2,1,1,1,1
+"Owner 173",owner_173@example.com,"UMKM 173","Food and Beverage","> 3 tahun",2,1,2,2,1,1,4,4,4,2,3,3,3,3,3,3,4,2,4,5,5,5,5,5,5,2,2,2,1,2,1,3,2,1,2
+"Owner 174",owner_174@example.com,"UMKM 174","Food and Beverage","< 1 tahun",2,1,1,2,1,1,3,1,3,2,2,1,3,2,4,2,2,2,4,3,4,3,3,4,5,4,1,2,3,2,2,2,2,2,2
+"Owner 175",owner_175@example.com,"UMKM 175","Food and Beverage","> 3 tahun",2,2,1,2,1,1,4,4,4,4,4,5,3,4,3,3,3,2,4,5,4,5,4,5,4,5,4,3,4,2,1,1,1,1,1
+"Owner 176",owner_176@example.com,"UMKM 176",Fashion,"> 3 tahun",4,3,1,3,4,4,4,4,4,4,4,4,4,3,4,3,4,2,4,5,5,4,4,5,4,5,4,2,4,3,2,1,1,2,2
+"Owner 177",owner_177@example.com,"UMKM 177",Fashion,"1 - 3 tahun",2,2,1,2,1,1,3,4,4,4,4,4,3,4,4,4,4,5,5,5,5,5,5,5,5,2,3,3,4,3,2,3,2,2,2
+"Owner 178",owner_178@example.com,"UMKM 178",Fashion,"1 - 3 tahun",2,1,1,2,1,1,4,4,4,4,3,4,4,4,4,4,3,5,5,5,5,5,4,5,5,4,3,4,4,3,3,2,2,1,2
+"Owner 179",owner_179@example.com,"UMKM 179","Food and Beverage","1 - 3 tahun",2,1,1,2,1,1,4,4,5,4,3,4,4,4,5,4,4,2,5,5,4,5,5,4,5,5,2,3,4,3,4,1,2,1,1
+"Owner 180",owner_180@example.com,"UMKM 180","Food and Beverage","> 3 tahun",4,3,1,4,4,4,2,2,2,2,2,1,2,2,2,2,1,2,2,2,2,2,2,1,2,2,1,2,1,2,1,1,1,1,2
+"Owner 181",owner_181@example.com,"UMKM 181","Food and Beverage","> 3 tahun",3,2,1,4,4,4,2,1,2,2,2,2,3,3,3,3,2,2,3,1,3,3,2,2,2,2,1,2,1,2,2,2,1,1,1
+"Owner 182",owner_182@example.com,"UMKM 182","Food and Beverage","> 3 tahun",2,2,2,2,1,1,4,4,3,4,4,4,5,5,5,3,5,2,5,4,5,5,5,4,5,5,4,4,3,4,3,1,2,2,2
+"Owner 183",owner_183@example.com,"UMKM 183","Wholesale and retail","> 3 tahun",3,3,1,3,2,2,3,4,4,1,2,3,5,3,5,5,3,2,3,5,1,5,3,3,4,5,4,4,3,3,2,1,1,1,1
+"Owner 184",owner_184@example.com,"UMKM 184","Food and Beverage","1 - 3 tahun",3,3,1,3,2,3,3,4,4,3,2,3,4,3,3,4,4,3,3,3,3,3,3,3,5,3,3,2,3,4,1,1,1,1,2
+"Owner 185",owner_185@example.com,"UMKM 185","Food and Beverage","> 3 tahun",1,3,2,2,1,1,3,4,4,4,2,3,4,3,4,4,3,2,3,3,3,3,3,3,5,3,4,2,2,3,2,1,1,1,1
+"Owner 186",owner_186@example.com,"UMKM 186","Food and Beverage","1 - 3 tahun",1,2,1,1,2,1,3,4,4,3,3,4,4,3,5,4,4,2,5,5,5,5,5,4,5,4,4,3,3,3,2,1,1,1,1
+"Owner 187",owner_187@example.com,"UMKM 187",Fashion,"1 - 3 tahun",1,2,1,2,1,1,3,4,4,3,3,3,4,4,4,4,3,2,4,4,4,5,4,4,4,5,3,4,3,3,4,2,1,1,2
+"Owner 188",owner_188@example.com,"UMKM 188","Wholesale and retail","> 3 tahun",3,2,2,2,2,1,3,3,4,1,2,5,4,3,4,4,4,2,4,3,4,3,3,4,3,4,2,3,3,4,3,1,2,1,2
+"Owner 189",owner_189@example.com,"UMKM 189",Fashion,"> 3 tahun",2,2,1,2,2,1,3,4,4,3,3,3,4,4,4,4,4,5,5,5,2,5,4,4,4,4,3,3,3,4,3,2,2,2,2
+"Owner 190",owner_190@example.com,"UMKM 190","Food and Beverage","> 3 tahun",2,2,1,2,2,1,2,2,1,2,2,3,2,3,4,4,4,2,5,5,5,4,3,5,4,5,3,4,3,4,2,3,2,3,3
+"Owner 191",owner_191@example.com,"UMKM 191","Food and Beverage","> 3 tahun",2,1,1,2,1,1,2,1,1,1,1,2,3,3,4,4,4,2,2,4,4,5,4,5,5,4,4,4,3,4,3,3,3,3,2
+"Owner 192",owner_192@example.com,"UMKM 192","Food and Beverage","1 - 3 tahun",2,1,2,1,1,1,3,1,4,1,1,1,2,3,4,4,4,2,5,4,4,3,4,3,5,4,3,4,3,4,2,3,2,3,3
+"Owner 193",owner_193@example.com,"UMKM 193","Wholesale and retail","> 3 tahun",2,2,2,2,2,1,3,1,4,1,1,1,1,5,4,5,3,4,5,4,3,5,5,3,1,3,4,3,4,3,3,3,3,3,2
+"Owner 194",owner_194@example.com,"UMKM 194",Fashion,"> 3 tahun",3,2,3,3,2,3,2,2,2,1,2,2,2,3,4,4,4,5,5,5,2,5,5,5,5,5,4,4,3,4,3,3,3,3,3
+"Owner 195",owner_195@example.com,"UMKM 195","Food and Beverage","> 3 tahun",1,1,2,1,1,1,3,2,2,4,2,2,3,2,2,4,2,4,4,2,4,3,3,3,3,3,2,2,2,2,1,1,1,1,2
+"Owner 196",owner_196@example.com,"UMKM 196","Wholesale and retail","> 3 tahun",1,2,1,2,2,3,3,2,2,2,2,2,1,2,1,2,3,2,3,2,2,2,1,2,5,2,1,1,1,1,1,1,1,1,1
+"Owner 197",owner_197@example.com,"UMKM 197","Food and Beverage","> 3 tahun",3,2,3,2,2,3,3,2,1,2,2,2,4,4,5,4,4,1,3,3,3,3,2,3,5,3,2,1,2,1,2,1,1,1,1
+"Owner 198",owner_198@example.com,"UMKM 198","Wholesale and retail","> 3 tahun",2,2,3,2,3,3,2,2,2,2,3,3,2,4,4,4,4,2,3,3,3,3,3,3,5,3,2,2,2,3,2,1,1,1,1
+"Owner 199",owner_199@example.com,"UMKM 199",Fashion,"1 - 3 tahun",2,2,2,2,2,1,3,2,3,2,3,2,4,5,4,3,4,2,4,2,2,2,2,3,2,2,2,2,1,1,2,2,1,1,1
+"Owner 200",owner_200@example.com,"UMKM 200","Food and Beverage","> 3 tahun",2,1,2,1,1,1,3,3,4,4,3,3,4,1,3,3,3,1,3,3,3,3,3,3,3,3,2,2,1,1,1,1,2,1,1
+"Owner 201",owner_201@example.com,"UMKM 201","Food and Beverage","> 3 tahun",3,2,3,2,3,2,3,4,4,4,4,3,3,2,3,3,3,2,4,3,2,4,3,2,4,4,3,3,4,4,2,3,2,3,2
+"Owner 202",owner_202@example.com,"UMKM 202","Food and Beverage","> 3 tahun",2,2,2,2,2,2,3,3,4,4,4,4,3,2,3,3,3,2,4,3,1,3,3,2,3,4,2,3,3,4,3,2,3,3,3
+"Owner 203",owner_203@example.com,"UMKM 203","Food and Beverage","> 3 tahun",1,1,1,1,1,1,3,3,4,4,4,4,5,4,5,5,4,1,3,3,3,3,3,3,5,3,4,3,4,3,3,3,3,3,3
+"Owner 204",owner_204@example.com,"UMKM 204","Food and Beverage","> 3 tahun",1,1,1,1,1,1,3,3,2,3,2,2,3,3,3,4,4,2,5,2,3,2,2,2,5,2,2,2,3,3,2,2,2,2,2
+"Owner 205",owner_205@example.com,"UMKM 205","Food and Beverage","> 3 tahun",1,1,1,1,1,1,4,2,3,2,2,2,4,4,4,4,4,2,4,3,2,2,1,2,2,2,2,3,3,2,3,3,2,3,3
+"Owner 206",owner_206@example.com,"UMKM 206","Food and Beverage","1 - 3 tahun",2,1,1,1,1,1,4,4,4,4,4,4,4,3,4,4,4,2,5,5,4,5,5,5,5,2,4,2,4,3,2,2,2,2,2
+"Owner 207",owner_207@example.com,"UMKM 207",Fashion,"> 3 tahun",1,2,1,1,1,1,4,1,2,1,2,2,4,3,4,4,4,2,4,2,2,2,2,2,5,2,1,1,1,1,1,1,1,1,1
+"Owner 208",owner_208@example.com,"UMKM 208","Food and Beverage","> 3 tahun",3,3,3,1,3,1,3,4,4,4,3,4,3,2,3,3,2,2,5,5,4,5,5,3,5,5,3,3,4,3,3,3,3,3,3
+"Owner 209",owner_209@example.com,"UMKM 209",Fashion,"> 3 tahun",1,2,3,3,3,1,3,2,1,2,2,2,3,2,3,3,2,2,3,2,3,2,2,2,5,3,1,1,1,1,1,1,1,1,1
+"Owner 210",owner_210@example.com,"UMKM 210",Fashion,"> 3 tahun",3,1,1,1,3,3,3,2,3,3,3,2,4,4,4,3,3,2,4,2,2,2,2,2,2,2,2,3,2,2,2,1,1,1,2
+"Owner 211",owner_211@example.com,"UMKM 211","Food and Beverage","> 3 tahun",1,1,1,1,1,1,3,2,3,3,3,2,3,4,4,4,4,5,4,2,3,2,2,2,3,3,2,3,2,2,2,2,2,2,2
+"Owner 212",owner_212@example.com,"UMKM 212","Food and Beverage","1 - 3 tahun",1,1,1,1,1,1,3,3,3,3,3,3,3,2,4,4,4,1,4,4,4,4,4,3,5,5,2,3,2,3,2,2,2,1,2
+"Owner 213",owner_213@example.com,"UMKM 213","Food and Beverage","1 - 3 tahun",1,1,1,1,1,1,3,2,1,2,2,2,4,3,3,3,3,2,3,3,3,3,3,3,5,3,2,1,2,2,1,2,2,1,2
+"Owner 214",owner_214@example.com,"UMKM 214","Food and Beverage","1 - 3 tahun",4,4,3,4,4,4,3,2,2,2,1,1,3,2,3,2,2,1,4,2,2,2,2,2,5,5,1,1,1,1,1,3,3,3,1
+"Owner 215",owner_215@example.com,"UMKM 215","Food and Beverage","1 - 3 tahun",1,1,1,1,1,1,3,2,3,1,2,3,2,2,3,2,2,2,3,3,3,3,3,3,5,3,1,2,1,2,1,1,1,1,1
+"Owner 216",owner_216@example.com,"UMKM 216","Wholesale and retail","> 3 tahun",3,3,4,2,4,3,3,2,1,2,2,2,3,3,2,2,3,2,2,1,2,2,3,2,2,2,2,2,1,2,1,2,2,2,2
+"Owner 217",owner_217@example.com,"UMKM 217","Wholesale and retail","1 - 3 tahun",3,1,3,3,1,3,3,3,3,3,3,3,2,2,2,2,2,2,1,4,2,2,2,2,2,2,2,4,2,1,1,2,2,1,2
+"Owner 218",owner_218@example.com,"UMKM 218",Fashion,"> 3 tahun",1,3,1,1,3,3,3,3,3,3,3,3,3,3,2,2,2,5,3,3,3,3,3,3,3,3,3,2,1,3,2,1,1,1,1
+"Owner 219",owner_219@example.com,"UMKM 219","Wholesale and retail","> 3 tahun",1,1,1,1,1,1,4,4,4,4,4,4,4,4,4,4,4,1,2,2,2,5,5,5,5,5,3,4,3,3,4,1,2,1,2
+"Owner 220",owner_220@example.com,"UMKM 220","Wholesale and retail","> 3 tahun",1,1,1,1,1,1,3,2,2,2,2,2,4,4,4,4,4,2,3,3,3,3,3,3,5,3,2,2,3,1,2,1,1,1,1
+"Owner 221",owner_221@example.com,"UMKM 221","Food and Beverage","> 3 tahun",1,1,1,1,1,1,3,2,2,2,2,2,4,4,4,4,4,2,5,2,1,2,3,2,5,2,2,3,2,2,1,1,1,1,1
+"Owner 222",owner_222@example.com,"UMKM 222","Food and Beverage","> 3 tahun",3,1,3,1,3,3,3,2,2,2,1,2,4,4,4,4,4,2,5,2,2,3,2,3,5,2,1,1,1,1,1,1,1,1,1
+"Owner 223",owner_223@example.com,"UMKM 223","Wholesale and retail","> 3 tahun",4,4,4,3,4,4,4,2,2,2,2,2,4,4,4,4,4,1,3,3,3,3,3,3,3,3,2,2,3,2,1,1,2,1,2
+"Owner 224",owner_224@example.com,"UMKM 224",Fashion,"> 3 tahun",1,1,1,1,1,1,3,4,3,2,3,3,5,4,5,4,4,5,2,3,2,3,3,3,3,3,2,2,3,2,2,2,2,2,2
+"Owner 225",owner_225@example.com,"UMKM 225","Wholesale and retail","> 3 tahun",1,1,1,1,1,1,2,1,3,3,2,1,3,3,3,4,3,2,3,3,3,3,3,3,5,3,2,2,2,3,2,1,2,1,2
+"Owner 226",owner_226@example.com,"UMKM 226",Fashion,"> 3 tahun",1,1,1,1,1,1,3,2,1,2,2,2,4,4,4,4,4,1,5,3,2,2,3,2,5,2,2,3,1,3,1,1,1,1,1
+"Owner 227",owner_227@example.com,"UMKM 227","Wholesale and retail","> 3 tahun",3,1,3,3,1,3,3,3,3,3,3,4,4,3,3,4,3,1,4,4,2,3,4,3,4,4,4,2,2,4,1,1,1,1,1
+"Owner 228",owner_228@example.com,"UMKM 228","Food and Beverage","> 3 tahun",1,3,1,1,3,3,3,4,4,4,4,1,1,4,4,4,4,2,3,3,3,3,3,3,5,3,3,1,3,3,3,1,2,2,2
+"Owner 229",owner_229@example.com,"UMKM 229","Food and Beverage","> 3 tahun",1,1,1,1,1,1,3,3,3,3,3,3,4,4,4,4,4,1,4,4,2,5,5,5,5,4,3,4,4,3,4,3,2,3,3
+"Owner 230",owner_230@example.com,"UMKM 230","Wholesale and retail","1 - 3 tahun",1,1,1,1,1,1,3,3,3,3,3,3,4,4,4,4,3,1,3,3,3,3,3,3,3,3,2,3,2,3,1,1,1,1,1
+"Owner 231",owner_231@example.com,"UMKM 231","Food and Beverage","1 - 3 tahun",1,1,1,1,1,1,3,4,4,4,3,3,4,4,4,4,4,1,4,4,4,5,5,5,4,4,1,3,3,4,3,3,3,3,3
+"Owner 232",owner_232@example.com,"UMKM 232",Fashion,"> 3 tahun",1,1,1,1,1,1,3,3,3,3,3,3,5,5,5,5,5,2,4,4,4,4,4,4,4,4,3,3,3,1,1,1,1,1,1
+"Owner 233",owner_233@example.com,"UMKM 233","Food and Beverage","> 3 tahun",3,1,3,1,3,3,3,1,3,3,3,3,4,4,4,4,4,2,4,4,4,5,5,5,5,5,3,2,3,2,2,1,1,1,1
+"Owner 234",owner_234@example.com,"UMKM 234","Food and Beverage","> 3 tahun",1,1,1,2,1,1,3,1,2,2,2,2,5,5,5,5,5,1,2,2,3,2,2,2,1,2,1,1,2,2,1,2,3,3,2
+"Owner 235",owner_235@example.com,"UMKM 235",Fashion,"> 3 tahun",1,1,1,1,1,1,3,4,5,4,4,5,4,4,4,4,4,2,4,4,5,5,5,4,5,5,4,3,4,4,4,3,3,3,3
+"Owner 236",owner_236@example.com,"UMKM 236",Fashion,"1 - 3 tahun",1,1,1,2,1,1,3,1,3,3,3,3,2,2,1,2,2,2,2,2,2,2,2,2,1,2,2,2,2,1,2,2,1,1,2
+"Owner 237",owner_237@example.com,"UMKM 237","Food and Beverage","> 3 tahun",3,1,3,1,3,3,3,3,3,3,1,3,2,1,2,2,2,2,2,5,2,5,3,2,2,3,2,2,2,2,1,1,1,1,1
+"Owner 238",owner_238@example.com,"UMKM 238","Food and Beverage","> 3 tahun",3,1,1,1,3,3,3,2,2,1,2,1,4,3,2,2,3,1,3,3,2,3,5,3,5,5,1,1,2,1,2,1,1,1,1
+"Owner 239",owner_239@example.com,"UMKM 239","Food and Beverage","> 3 tahun",1,1,2,2,1,1,2,2,2,1,2,2,2,3,4,4,4,2,3,2,2,2,2,3,5,2,2,2,1,1,1,1,1,1,1
+"Owner 240",owner_240@example.com,"UMKM 240","Food and Beverage","> 3 tahun",1,2,1,1,1,1,3,2,2,2,1,2,2,2,2,2,2,1,2,3,2,3,3,2,2,3,1,1,2,1,2,2,1,1,1
+"Owner 241",owner_241@example.com,"UMKM 241",Fashion,"1 - 3 tahun",1,1,1,1,1,1,3,4,4,4,4,4,4,4,4,4,4,2,4,3,3,3,3,4,5,3,3,3,2,3,2,2,1,1,2
+"Owner 242",owner_242@example.com,"UMKM 242",Fashion,"1 - 3 tahun",1,1,1,1,1,1,4,5,4,5,5,5,5,3,4,4,4,1,5,4,5,4,5,5,5,5,4,4,4,4,4,3,3,3,3
+"Owner 243",owner_243@example.com,"UMKM 243","Food and Beverage","> 3 tahun",1,2,1,1,1,1,2,4,4,4,4,4,5,4,5,5,5,2,3,3,3,3,3,3,3,3,2,2,2,2,2,1,1,1,1
+"Owner 244",owner_244@example.com,"UMKM 244","Wholesale and retail","> 3 tahun",1,2,2,1,1,1,2,3,4,4,4,4,4,4,3,4,4,1,2,3,2,3,3,3,3,3,2,2,2,2,2,1,1,1,1
+"Owner 245",owner_245@example.com,"UMKM 245","Wholesale and retail","> 3 tahun",2,1,1,2,2,1,2,4,4,4,3,4,4,4,5,4,4,2,3,4,4,4,3,3,5,4,4,2,2,4,4,1,1,1,1
+"Owner 246",owner_246@example.com,"UMKM 246","Wholesale and retail","< 1 tahun",2,1,2,2,2,1,2,3,4,4,4,4,4,4,3,5,4,1,3,3,3,1,3,2,3,3,3,2,3,2,2,2,1,2,2
+"Owner 247",owner_247@example.com,"UMKM 247","Wholesale and retail","< 1 tahun",2,2,1,1,2,2,3,3,4,4,1,4,4,4,4,4,5,1,4,4,4,5,5,5,5,5,4,2,3,4,3,2,2,1,2
+"Owner 248",owner_248@example.com,"UMKM 248","Wholesale and retail","< 1 tahun",1,2,1,2,2,1,2,3,3,4,4,2,3,4,3,4,4,1,4,5,5,4,4,4,4,4,2,2,2,2,2,1,2,1,2
+"Owner 249",owner_249@example.com,"UMKM 249","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,4,2,2,4,3,2,2,4,2,2,2,1,4,4,4,3,4,3,3,3,3,2,2,3,2,2,1,1,1
+"Owner 250",owner_250@example.com,"UMKM 250","Wholesale and retail","1 - 3 tahun",2,2,2,2,2,1,2,3,3,4,4,3,3,4,4,5,4,1,5,4,3,4,4,3,5,5,3,2,2,3,3,2,1,1,1
+"Owner 251",owner_251@example.com,"UMKM 251","Wholesale and retail","< 1 tahun",1,2,1,2,1,1,2,3,3,4,4,4,2,4,2,4,4,1,4,5,5,5,5,5,5,5,2,2,2,2,2,2,1,1,2
+"Owner 252",owner_252@example.com,"UMKM 252","Wholesale and retail","> 3 tahun",2,2,1,2,2,2,2,4,3,4,3,4,2,4,2,4,4,3,4,5,5,4,4,4,5,5,2,3,2,2,2,1,1,1,1
+"Owner 253",owner_253@example.com,"UMKM 253","Wholesale and retail","> 3 tahun",2,2,2,2,2,2,2,3,2,2,1,4,2,2,2,3,3,1,2,2,2,2,3,2,5,3,2,2,2,1,2,2,1,1,2
+"Owner 254",owner_254@example.com,"UMKM 254","Food and Beverage","> 3 tahun",2,2,2,2,2,1,2,4,4,4,4,4,5,4,5,5,4,1,4,4,3,4,3,3,3,3,3,2,2,2,2,2,2,1,1
+"Owner 255",owner_255@example.com,"UMKM 255","Food and Beverage","> 3 tahun",2,2,2,2,2,1,2,3,3,3,3,3,3,4,4,4,4,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2
+"Owner 256",owner_256@example.com,"UMKM 256","Wholesale and retail","> 3 tahun",2,2,2,2,2,1,2,3,3,3,2,4,4,4,4,4,3,1,3,3,3,4,3,1,2,3,2,2,2,2,2,1,2,1,2
+"Owner 257",owner_257@example.com,"UMKM 257","Food and Beverage","> 3 tahun",2,1,2,2,2,1,3,4,4,4,4,4,5,5,5,4,4,1,4,5,4,5,5,5,5,2,2,4,4,3,2,3,3,3,3
+"Owner 258",owner_258@example.com,"UMKM 258","Wholesale and retail","> 3 tahun",2,1,2,2,1,1,3,4,4,4,4,3,4,4,4,5,4,1,1,5,2,5,1,4,5,2,2,2,2,2,2,2,2,1,2
+"Owner 259",owner_259@example.com,"UMKM 259",Fashion,"> 3 tahun",2,1,2,2,1,1,3,3,4,4,4,4,4,4,4,4,2,2,2,5,2,5,4,4,5,2,2,2,2,2,2,1,1,2,2
+"Owner 260",owner_260@example.com,"UMKM 260","Food and Beverage","> 3 tahun",2,2,2,2,2,1,3,4,4,4,3,4,4,4,4,5,3,4,2,5,2,5,4,4,5,2,2,2,2,2,2,1,1,1,1
+"Owner 261",owner_261@example.com,"UMKM 261","Food and Beverage","> 3 tahun",3,3,3,3,2,3,2,3,4,4,3,2,3,4,3,3,4,1,3,3,3,2,3,3,2,3,2,2,3,2,2,1,1,1,1
+"Owner 262",owner_262@example.com,"UMKM 262",Fashion,"> 3 tahun",1,2,1,1,2,2,2,4,4,4,4,4,4,4,4,4,4,1,4,5,5,5,5,5,5,5,2,2,2,2,2,1,1,1,1
+"Owner 263",owner_263@example.com,"UMKM 263","Wholesale and retail","> 3 tahun",3,3,2,2,3,2,2,4,4,4,4,3,3,3,4,4,4,1,2,2,2,2,2,2,5,3,2,2,1,2,1,2,1,1,1
+"Owner 264",owner_264@example.com,"UMKM 264","Wholesale and retail","> 3 tahun",1,1,1,1,1,1,2,3,4,4,4,4,5,4,5,5,5,5,5,5,5,1,5,4,5,5,2,2,2,2,2,1,2,1,2
+"Owner 265",owner_265@example.com,"UMKM 265","Wholesale and retail","< 1 tahun",2,2,1,2,2,1,2,3,4,4,4,3,3,3,4,4,4,5,4,5,5,5,5,5,5,5,2,2,2,2,2,2,1,1,2
+"Owner 266",owner_266@example.com,"UMKM 266","Wholesale and retail","1 - 3 tahun",2,2,2,2,2,2,2,3,4,4,4,4,4,3,4,4,4,1,4,5,5,5,1,5,5,5,2,2,2,2,2,1,1,1,1
+"Owner 267",owner_267@example.com,"UMKM 267","Wholesale and retail","> 3 tahun",2,2,1,2,2,2,2,4,4,3,4,4,4,4,4,5,5,1,4,3,5,3,5,3,5,5,3,3,3,3,3,1,2,1,2
+"Owner 268",owner_268@example.com,"UMKM 268","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,4,4,3,4,4,4,4,4,4,5,1,4,3,5,5,5,5,5,5,3,3,3,3,2,1,1,1,1
+"Owner 269",owner_269@example.com,"UMKM 269","Wholesale and retail","> 3 tahun",2,1,1,1,1,2,2,3,4,4,4,4,4,4,4,3,4,4,3,5,4,5,5,5,5,5,3,2,3,3,2,1,1,1,1
+"Owner 270",owner_270@example.com,"UMKM 270",Fashion,"> 3 tahun",2,2,1,2,2,1,2,3,3,3,3,3,3,3,4,3,4,1,2,2,2,2,2,1,1,2,3,2,3,3,3,1,1,2,2
+"Owner 271",owner_271@example.com,"UMKM 271",Fashion,"> 3 tahun",2,2,1,2,2,2,2,3,3,4,4,3,3,4,3,3,3,1,2,2,2,2,2,2,5,2,2,3,3,2,3,1,1,1,1
+"Owner 272",owner_272@example.com,"UMKM 272","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,4,1,3,4,4,5,4,5,4,3,1,2,2,1,2,2,2,5,2,2,2,1,1,1,1,1,1,1
+"Owner 273",owner_273@example.com,"UMKM 273",Fashion,"> 3 tahun",2,2,2,2,2,2,2,3,1,1,3,4,2,2,2,2,2,2,4,2,2,2,2,2,5,2,1,1,1,1,1,1,2,1,2
+"Owner 274",owner_274@example.com,"UMKM 274","Food and Beverage","> 3 tahun",2,2,1,2,2,1,3,3,4,4,4,4,5,4,5,4,5,1,5,5,5,4,5,5,5,5,2,2,2,2,2,2,2,2,2
+"Owner 275",owner_275@example.com,"UMKM 275","Food and Beverage","1 - 3 tahun",2,2,1,2,2,1,3,3,2,3,1,4,4,2,4,3,4,1,4,2,2,2,2,2,5,5,1,1,1,1,1,2,2,1,1
+"Owner 276",owner_276@example.com,"UMKM 276","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,3,3,2,2,2,2,2,4,4,4,2,1,2,3,2,3,2,2,2,2,2,2,2,3,2,2,2,2,2
+"Owner 277",owner_277@example.com,"UMKM 277",Fashion,"1 - 3 tahun",2,2,1,2,2,1,3,2,2,5,3,2,5,4,5,4,5,1,4,4,4,4,4,4,5,4,1,2,1,1,4,1,2,1,1
+"Owner 278",owner_278@example.com,"UMKM 278","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,5,2,2,2,2,2,2,4,4,1,4,1,4,4,4,3,3,4,5,4,4,4,3,4,4,1,1,1,1
+"Owner 279",owner_279@example.com,"UMKM 279","Food and Beverage","1 - 3 tahun",2,2,1,2,1,2,3,2,3,3,3,4,3,4,4,5,4,1,4,4,4,4,2,5,5,5,2,2,3,3,2,1,1,1,1
+"Owner 280",owner_280@example.com,"UMKM 280",Fashion,"> 3 tahun",2,2,1,2,1,2,2,2,2,2,2,2,4,3,4,4,4,1,2,3,2,5,5,5,5,5,3,2,2,2,1,1,1,1,1
+"Owner 281",owner_281@example.com,"UMKM 281","Food and Beverage","> 3 tahun",2,2,1,2,1,2,2,2,2,1,1,2,3,3,3,3,3,1,2,2,2,2,2,2,2,2,3,3,2,3,2,1,1,1,1
+"Owner 282",owner_282@example.com,"UMKM 282","Food and Beverage","1 - 3 tahun",2,2,1,2,2,1,2,2,1,1,2,5,4,4,3,1,4,1,3,2,2,3,3,3,3,3,3,2,3,3,3,1,2,1,2
+"Owner 283",owner_283@example.com,"UMKM 283","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,1,2,1,1,2,1,2,4,4,4,4,1,5,4,5,5,5,5,5,5,3,3,3,3,3,1,1,1,1
+"Owner 284",owner_284@example.com,"UMKM 284","Wholesale and retail","> 3 tahun",2,3,1,2,1,1,3,3,3,3,3,3,1,4,4,4,4,1,5,4,5,5,5,3,5,5,2,2,3,2,2,1,1,1,1
+"Owner 285",owner_285@example.com,"UMKM 285","Wholesale and retail","> 3 tahun",1,1,1,1,1,1,1,1,5,2,1,2,1,5,5,5,5,2,2,2,2,2,2,2,5,5,4,4,4,1,2,1,2,1,2
+"Owner 286",owner_286@example.com,"UMKM 286","Food and Beverage","> 3 tahun",1,2,1,2,2,1,3,3,3,1,1,3,1,3,3,3,3,1,4,5,4,5,5,1,5,1,4,2,4,4,4,2,2,2,2
+"Owner 287",owner_287@example.com,"UMKM 287",Fashion,"> 3 tahun",2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,5,5,5,5,5,5,5,5,1,2,2,2,2,2,2,2,2
+"Owner 288",owner_288@example.com,"UMKM 288","Wholesale and retail","1 - 3 tahun",2,2,1,2,2,1,2,2,3,2,2,1,2,2,4,3,3,1,2,2,2,2,2,2,2,2,3,2,4,2,2,2,2,2,2
+"Owner 289",owner_289@example.com,"UMKM 289","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,2,2,2,1,2,2,2,2,2,2,1,4,4,4,4,4,4,4,4,2,2,2,3,3,2,2,2,2
+"Owner 290",owner_290@example.com,"UMKM 290","Wholesale and retail","> 3 tahun",1,2,1,2,1,1,1,2,1,2,1,2,1,2,1,2,1,1,2,2,2,2,3,2,5,2,4,4,4,4,4,1,1,1,1
+"Owner 291",owner_291@example.com,"UMKM 291","Wholesale and retail","> 3 tahun",3,2,1,3,2,3,1,2,1,1,2,2,1,2,2,2,2,1,4,2,2,1,1,2,5,1,1,1,1,4,4,1,1,1,2
+"Owner 292",owner_292@example.com,"UMKM 292","Wholesale and retail","1 - 3 tahun",2,2,1,2,2,2,4,4,4,4,4,4,3,3,3,3,3,3,4,5,4,5,4,1,5,4,4,4,1,4,4,3,3,3,3
+"Owner 293",owner_293@example.com,"UMKM 293","Food and Beverage","> 3 tahun",3,2,2,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,5,5,5,5,5,5,5,5,4,2,3,2,2,2,2,2,2
+"Owner 294",owner_294@example.com,"UMKM 294","Wholesale and retail","> 3 tahun",1,2,1,1,1,1,4,4,4,4,4,4,4,5,5,5,4,5,5,5,2,5,5,5,5,5,3,3,3,3,2,1,1,1,1
+"Owner 295",owner_295@example.com,"UMKM 295","Wholesale and retail","> 3 tahun",1,2,2,1,1,1,3,4,4,4,4,4,4,3,4,4,4,5,5,5,2,5,5,5,5,5,3,2,1,3,3,1,1,1,1
+"Owner 296",owner_296@example.com,"UMKM 296",Fashion,"> 3 tahun",2,1,2,2,2,1,2,4,4,2,4,4,4,3,5,4,4,5,2,2,2,2,2,2,2,2,2,2,1,1,2,1,1,1,1
+"Owner 297",owner_297@example.com,"UMKM 297","Wholesale and retail","> 3 tahun",1,1,1,1,2,1,3,4,4,2,4,4,4,4,4,5,5,4,4,4,5,5,5,5,5,5,4,4,4,4,4,1,2,1,2
+"Owner 298",owner_298@example.com,"UMKM 298",Fashion,"> 3 tahun",1,2,1,2,2,1,3,3,4,4,2,4,4,3,4,4,3,4,5,5,4,4,4,4,5,4,2,2,2,2,2,1,2,1,2
+"Owner 299",owner_299@example.com,"UMKM 299","Wholesale and retail","> 3 tahun",4,4,3,4,4,4,3,3,4,2,3,3,1,2,2,3,1,2,3,4,3,3,4,3,5,4,2,2,2,2,2,1,1,1,2
+"Owner 300",owner_300@example.com,"UMKM 300","Wholesale and retail","> 3 tahun",2,2,2,2,2,1,3,3,4,2,3,3,2,1,2,1,2,2,4,3,4,4,4,3,5,5,2,2,2,2,2,2,1,2,1
+"Owner 301",owner_301@example.com,"UMKM 301","Wholesale and retail","> 3 tahun",1,2,1,2,1,1,3,2,4,4,4,4,4,2,4,4,2,4,5,5,4,5,5,5,5,5,3,3,4,2,3,2,1,1,2
+"Owner 302",owner_302@example.com,"UMKM 302","Wholesale and retail","> 3 tahun",2,2,2,2,2,1,4,2,4,2,4,2,2,2,2,2,2,2,2,5,2,3,2,3,3,2,3,3,3,3,2,2,1,1,2
+"Owner 303",owner_303@example.com,"UMKM 303","Food and Beverage","1 - 3 tahun",2,2,2,2,2,1,3,3,3,2,4,4,4,3,2,3,2,2,2,2,2,2,3,2,5,2,3,3,3,3,3,2,2,2,2
+"Owner 304",owner_304@example.com,"UMKM 304","Food and Beverage","> 3 tahun",2,1,2,2,2,1,4,4,4,4,4,4,5,1,2,2,3,1,1,2,5,5,5,5,5,2,1,1,1,2,1,1,2,1,2
+"Owner 305",owner_305@example.com,"UMKM 305","Wholesale and retail","> 3 tahun",2,2,1,2,1,1,3,3,3,3,3,3,4,4,4,4,4,2,3,3,3,3,3,3,5,3,2,3,2,3,3,1,1,2,2
+"Owner 306",owner_306@example.com,"UMKM 306","Food and Beverage","> 3 tahun",1,2,1,1,2,2,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,5,3,2,3,3,2,3,1,1,1,1
+"Owner 307",owner_307@example.com,"UMKM 307",Fashion,"1 - 3 tahun",3,3,1,2,3,2,4,4,5,4,5,5,3,4,4,4,4,4,4,4,2,4,4,4,4,5,2,3,2,4,3,2,1,1,2
+"Owner 308",owner_308@example.com,"UMKM 308","Wholesale and retail","> 3 tahun",1,1,1,1,1,1,3,4,4,4,4,4,5,5,5,5,5,5,3,3,3,3,3,3,5,3,3,4,4,4,3,1,2,1,2
+"Owner 309",owner_309@example.com,"UMKM 309","Wholesale and retail","> 3 tahun",2,1,1,2,2,1,3,2,2,2,1,1,3,4,4,4,4,4,2,2,2,2,1,2,5,2,1,1,1,1,1,2,1,1,2
+"Owner 310",owner_310@example.com,"UMKM 310","Wholesale and retail","> 3 tahun",2,2,1,2,2,2,3,3,2,2,2,1,3,4,4,4,4,2,2,2,2,2,2,2,5,2,2,2,1,3,2,1,1,1,1
+"Owner 311",owner_311@example.com,"UMKM 311","Wholesale and retail","> 3 tahun",1,2,1,1,1,1,5,4,3,4,3,4,4,4,5,5,4,4,3,3,3,3,3,3,5,3,3,3,3,4,3,3,3,3,3
+"Owner 312",owner_312@example.com,"UMKM 312","Wholesale and retail","1 - 3 tahun",1,1,1,1,1,1,4,2,2,1,2,2,5,4,4,5,5,3,3,2,2,2,2,2,5,2,2,1,1,1,2,1,1,1,1
+"Owner 313",owner_313@example.com,"UMKM 313",Fashion,"> 3 tahun",1,1,1,1,1,1,2,1,2,2,2,3,4,4,3,4,4,2,2,2,3,2,2,2,5,2,3,3,3,3,3,1,1,2,2
+"Owner 314",owner_314@example.com,"UMKM 314","Food and Beverage","> 3 tahun",1,1,1,1,1,1,3,2,1,2,2,2,3,3,3,3,3,1,4,3,1,5,5,2,5,5,2,2,3,1,2,1,1,1,1
+"Owner 315",owner_315@example.com,"UMKM 315","Wholesale and retail","1 - 3 tahun",1,2,1,2,2,1,3,3,4,4,4,4,4,4,5,4,4,5,4,5,5,4,5,5,5,5,2,2,2,2,2,2,1,2,2
+"Owner 316",owner_316@example.com,"UMKM 316","Food and Beverage","1 - 3 tahun",2,2,1,2,2,2,4,3,3,1,1,4,1,4,4,4,4,5,4,5,5,4,4,4,5,5,2,2,2,2,2,1,1,1,1
+"Owner 317",owner_317@example.com,"UMKM 317","Wholesale and retail","> 3 tahun",2,1,1,2,2,1,3,3,3,1,4,4,4,4,5,5,4,5,4,5,5,5,5,5,5,5,2,2,2,2,2,2,2,1,2
+"Owner 318",owner_318@example.com,"UMKM 318","Wholesale and retail","> 3 tahun",2,1,3,2,2,3,4,3,3,4,4,3,3,3,4,4,3,3,4,4,4,4,3,3,5,5,2,2,3,2,2,1,1,1,1
+"Owner 319",owner_319@example.com,"UMKM 319","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,4,4,3,4,4,3,4,4,3,4,4,5,5,5,4,5,5,5,5,5,2,2,2,2,2,2,1,1,1
+"Owner 320",owner_320@example.com,"UMKM 320","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,2,2,4,3,3,3,3,3,4,3,3,2,2,3,4,3,3,5,3,2,2,4,2,4,1,1,1,1
+"Owner 321",owner_321@example.com,"UMKM 321","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,3,4,4,4,4,4,4,3,4,4,5,4,5,4,4,4,4,5,5,2,2,2,2,2,2,2,1,2
+"Owner 322",owner_322@example.com,"UMKM 322","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,3,4,4,4,3,4,4,2,3,3,3,4,5,4,1,4,4,5,4,2,1,2,2,2,2,1,1,2
+"Owner 323",owner_323@example.com,"UMKM 323","Wholesale and retail","> 3 tahun",2,2,1,2,2,2,2,3,3,3,3,4,3,4,5,4,4,2,5,4,5,4,4,3,4,4,2,2,2,2,2,1,1,1,1
+"Owner 324",owner_324@example.com,"UMKM 324","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,2,3,1,1,3,3,3,3,3,3,3,4,5,4,4,4,4,4,4,2,2,2,2,2,1,1,1,1
+"Owner 325",owner_325@example.com,"UMKM 325","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,3,4,1,1,4,4,4,4,4,4,5,4,5,4,4,4,4,5,4,4,4,3,4,4,2,1,1,2
+"Owner 326",owner_326@example.com,"UMKM 326","Wholesale and retail","> 3 tahun",2,2,1,2,1,1,2,3,4,1,1,4,5,4,4,5,4,4,5,5,3,5,5,5,5,5,2,2,2,2,2,2,1,2,2
+"Owner 327",owner_327@example.com,"UMKM 327","Wholesale and retail","> 3 tahun",1,2,1,1,2,2,2,3,4,2,2,3,3,3,4,3,4,4,5,5,5,5,5,5,5,5,2,2,2,2,2,1,1,1,1
+"Owner 328",owner_328@example.com,"UMKM 328","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,2,3,3,3,3,3,4,3,4,5,4,4,5,3,4,3,4,2,3,5,2,2,1,2,1,3,1,1,3
+"Owner 329",owner_329@example.com,"UMKM 329","Wholesale and retail","> 3 tahun",2,2,1,2,1,2,3,4,4,4,3,3,3,4,4,4,3,3,1,5,2,5,5,5,5,1,2,2,2,2,2,3,2,1,2
+"Owner 330",owner_330@example.com,"UMKM 330","Wholesale and retail","1 - 3 tahun",2,1,1,2,2,1,3,3,3,3,3,3,3,3,3,3,3,3,1,4,2,1,4,4,5,1,2,2,2,2,2,2,1,1,2
+"Owner 331",owner_331@example.com,"UMKM 331","Wholesale and retail","> 3 tahun",2,2,1,2,1,2,3,3,4,4,4,4,4,3,3,4,3,4,2,5,2,5,2,5,5,2,2,2,2,2,2,1,1,1,1
+"Owner 332",owner_332@example.com,"UMKM 332","Wholesale and retail","> 3 tahun",2,2,1,2,1,1,3,3,3,3,3,3,4,4,4,4,4,4,2,4,2,3,3,3,5,4,4,4,4,4,4,2,2,2,2
+"Owner 333",owner_333@example.com,"UMKM 333","Wholesale and retail","> 3 tahun",2,1,1,2,1,1,4,4,4,4,4,4,4,2,3,3,2,3,2,4,2,4,3,3,3,2,2,2,2,2,2,2,2,2,2
+"Owner 334",owner_334@example.com,"UMKM 334","Food and Beverage","< 1 tahun",2,1,1,2,1,1,3,3,4,4,3,4,4,4,4,4,4,5,2,4,2,5,5,5,5,2,2,2,2,2,2,2,1,1,2
+"Owner 335",owner_335@example.com,"UMKM 335","Food and Beverage","> 3 tahun",2,1,1,2,1,1,3,4,4,4,3,4,3,3,5,5,4,3,1,4,2,5,5,4,5,2,4,4,3,3,4,2,1,2,1
+"Owner 336",owner_336@example.com,"UMKM 336",Fashion,"> 3 tahun",2,2,1,2,1,1,3,4,4,4,2,4,4,3,3,3,3,4,1,4,2,5,1,5,5,2,2,2,2,2,2,1,1,2,2
+"Owner 337",owner_337@example.com,"UMKM 337","Food and Beverage","> 3 tahun",2,2,1,2,2,1,2,3,3,3,3,3,3,4,3,4,4,4,4,4,4,5,5,2,5,5,2,2,2,2,2,1,1,1,2
+"Owner 338",owner_338@example.com,"UMKM 338","Food and Beverage","1 - 3 tahun",2,2,1,2,2,3,2,3,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,4,5,5,1,1,2,2,2,1,1,1,1
+"Owner 339",owner_339@example.com,"UMKM 339",Fashion,"> 3 tahun",2,2,1,2,2,2,2,3,3,4,4,3,4,4,3,3,3,3,4,4,3,5,4,1,4,5,3,3,3,3,3,2,2,1,2
+"Owner 340",owner_340@example.com,"UMKM 340","Food and Beverage","1 - 3 tahun",2,2,2,2,2,2,4,3,4,4,3,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,2,3,1,3
+"Owner 341",owner_341@example.com,"UMKM 341","Food and Beverage","> 3 tahun",2,2,2,2,2,2,3,3,3,3,3,3,4,3,4,4,4,4,4,4,4,4,4,4,5,4,2,3,3,3,3,1,1,1,1
+"Owner 342",owner_342@example.com,"UMKM 342","Food and Beverage","1 - 3 tahun",4,3,4,4,4,4,3,1,2,1,2,1,1,2,3,3,1,3,2,4,2,3,3,3,5,3,4,4,4,4,4,1,1,2,1
+"Owner 343",owner_343@example.com,"UMKM 343","Wholesale and retail","> 3 tahun",2,2,2,2,2,1,4,1,4,4,4,4,3,3,4,4,3,3,4,4,4,5,5,5,5,5,4,4,3,4,4,2,2,1,3
+"Owner 344",owner_344@example.com,"UMKM 344","Food and Beverage","> 3 tahun",2,2,2,2,2,1,2,2,2,2,1,2,4,2,3,4,3,3,4,4,4,5,5,4,4,5,1,1,1,1,1,1,2,1,2
+"Owner 345",owner_345@example.com,"UMKM 345","Food and Beverage","> 3 tahun",2,2,2,2,2,2,3,4,4,4,1,4,3,3,3,3,3,4,3,1,2,3,2,2,2,2,3,2,2,3,2,4,4,4,4
+"Owner 346",owner_346@example.com,"UMKM 346","Food and Beverage","1 - 3 tahun",2,1,2,2,1,1,4,4,4,5,5,4,4,4,1,4,4,4,5,4,5,5,5,5,5,4,4,4,4,4,4,2,2,2,2
+"Owner 347",owner_347@example.com,"UMKM 347","Food and Beverage","> 3 tahun",2,1,2,2,2,2,3,3,1,3,3,3,3,2,4,4,4,4,4,3,4,4,3,4,5,2,3,2,1,2,3,1,1,1,1
+"Owner 348",owner_348@example.com,"UMKM 348","Food and Beverage","> 3 tahun",2,1,2,2,2,1,3,3,3,3,3,3,1,3,4,1,4,4,5,5,5,5,5,5,5,5,1,1,1,2,1,2,2,1,2
+"Owner 349",owner_349@example.com,"UMKM 349","Food and Beverage","> 3 tahun",2,2,2,2,2,1,5,5,5,5,4,5,3,3,4,4,4,4,2,2,2,2,3,2,3,3,4,4,4,4,4,3,3,3,3
+"Owner 350",owner_350@example.com,"UMKM 350","Wholesale and retail","> 3 tahun",2,1,2,2,1,1,5,5,4,5,5,5,5,4,4,1,5,4,3,2,3,3,3,2,3,3,4,4,4,4,4,3,2,3,3
+"Owner 351",owner_351@example.com,"UMKM 351","Food and Beverage","> 3 tahun",2,2,2,2,2,2,4,4,4,3,4,3,1,1,2,2,1,2,2,2,2,2,2,3,5,2,2,2,3,2,3,1,1,1,1
+"Owner 352",owner_352@example.com,"UMKM 352","Wholesale and retail","> 3 tahun",2,2,2,2,1,1,3,3,3,3,4,3,2,2,2,2,2,2,5,2,2,2,2,1,5,2,2,2,2,2,2,1,2,2,2
+"Owner 353",owner_353@example.com,"UMKM 353","Wholesale and retail","> 3 tahun",2,2,2,2,2,2,3,4,3,3,3,3,3,4,1,4,3,4,2,2,2,2,2,3,2,2,3,3,2,3,3,2,1,2,3
+"Owner 354",owner_354@example.com,"UMKM 354","Food and Beverage","1 - 3 tahun",2,2,2,2,2,1,3,3,3,3,2,3,3,3,3,3,3,3,2,2,2,2,2,2,5,2,2,2,2,2,2,2,2,1,2
+"Owner 355",owner_355@example.com,"UMKM 355","Food and Beverage","> 3 tahun",3,2,3,2,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,5,2,1,1,1,1,1,1,1,1,1
+"Owner 356",owner_356@example.com,"UMKM 356","Food and Beverage","> 3 tahun",2,2,2,2,2,1,1,1,4,1,1,1,1,3,3,3,3,3,2,2,2,2,2,2,5,2,4,4,4,4,4,2,2,2,2
+"Owner 357",owner_357@example.com,"UMKM 357","Food and Beverage","1 - 3 tahun",1,2,1,1,1,1,4,4,4,4,4,5,5,4,4,5,5,5,5,4,4,5,5,4,5,4,4,4,4,1,4,2,2,2,2
+"Owner 358",owner_358@example.com,"UMKM 358","Food and Beverage","> 3 tahun",2,2,2,2,2,1,2,1,2,2,1,2,1,1,1,3,1,3,2,4,4,5,3,5,5,5,4,4,2,4,2,3,3,3,3
+"Owner 359",owner_359@example.com,"UMKM 359","Food and Beverage","> 3 tahun",3,2,3,2,2,3,4,4,4,4,4,4,4,5,5,4,5,5,5,5,3,2,5,3,5,2,4,4,1,3,1,3,2,3,3
+"Owner 360",owner_360@example.com,"UMKM 360","Food and Beverage","> 3 tahun",3,3,2,2,1,1,2,1,2,1,1,2,2,2,2,2,2,2,4,4,1,1,2,2,2,2,4,2,2,4,4,2,2,2,2
+"Owner 361",owner_361@example.com,"UMKM 361","Food and Beverage","> 3 tahun",2,2,2,2,2,1,3,3,3,3,3,3,2,3,3,3,3,3,4,3,4,4,4,5,5,5,2,2,1,2,4,2,2,2,2
+"Owner 362",owner_362@example.com,"UMKM 362","Food and Beverage","1 - 3 tahun",3,3,3,2,3,3,2,2,2,2,2,2,2,4,4,4,4,4,2,2,2,2,2,2,5,5,1,2,4,1,1,1,1,1,1
+"Owner 363",owner_363@example.com,"UMKM 363","Food and Beverage","< 1 tahun",2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,2,4,4,4,4,4,4,4,5,4,2,2,2,2,2,1,1,1,1
+"Owner 364",owner_364@example.com,"UMKM 364","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,1,2,1,1,1,2,1,2,3,3,3,3,4,5,4,4,5,5,5,5,2,4,2,4,4,2,2,2,2
+"Owner 365",owner_365@example.com,"UMKM 365","Food and Beverage","> 3 tahun",2,2,1,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,2,2,2,2,2,2,2,2,4,4,4,4,1,3,3,3,3
+"Owner 366",owner_366@example.com,"UMKM 366","Food and Beverage","> 3 tahun",1,2,1,2,1,1,4,4,4,4,4,4,5,5,5,5,5,4,5,4,4,4,3,4,5,3,2,3,3,3,2,2,1,2,1
+"Owner 367",owner_367@example.com,"UMKM 367",Fashion,"1 - 3 tahun",2,2,1,2,2,3,1,2,2,2,2,2,2,4,5,5,4,5,4,4,3,4,4,4,4,4,4,1,4,1,4,2,2,2,2
+"Owner 368",owner_368@example.com,"UMKM 368","Wholesale and retail","> 3 tahun",3,3,1,3,3,3,2,2,2,2,2,2,2,3,3,3,3,3,4,4,5,5,5,4,5,5,1,1,1,1,4,1,2,2,2
+"Owner 369",owner_369@example.com,"UMKM 369","Food and Beverage","> 3 tahun",2,2,1,2,2,2,5,4,4,5,4,4,4,3,3,3,3,3,4,4,3,5,4,2,5,2,2,3,4,4,4,2,2,2,2
+"Owner 370",owner_370@example.com,"UMKM 370","Food and Beverage","> 3 tahun",3,2,1,2,2,2,2,1,1,2,1,2,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,2,4,1,2,2,2,2
+"Owner 371",owner_371@example.com,"UMKM 371",Fashion,"> 3 tahun",2,2,1,2,2,1,4,4,4,4,4,4,4,4,3,3,3,3,4,4,4,4,4,3,4,3,4,4,4,4,4,3,2,1,1
+"Owner 372",owner_372@example.com,"UMKM 372",Fashion,"> 3 tahun",1,2,1,1,1,1,3,3,3,3,3,3,2,2,2,2,2,2,4,4,4,5,4,4,5,4,4,4,1,4,1,2,2,2,2
+"Owner 373",owner_373@example.com,"UMKM 373",Fashion,"> 3 tahun",1,1,1,1,2,1,4,4,4,4,4,4,4,5,4,4,4,4,4,5,4,5,5,4,5,4,4,4,4,4,4,3,3,3,3
+"Owner 374",owner_374@example.com,"UMKM 374",Fashion,"1 - 3 tahun",2,2,1,2,1,1,4,4,4,4,4,4,2,4,2,2,2,2,3,3,4,3,4,4,5,4,4,4,4,4,4,3,3,3,3
+"Owner 375",owner_375@example.com,"UMKM 375","Food and Beverage","> 3 tahun",2,2,1,2,2,3,3,2,2,2,1,2,3,3,4,4,3,3,5,4,2,5,5,5,5,5,2,1,2,1,1,1,1,1,1
+"Owner 376",owner_376@example.com,"UMKM 376","Food and Beverage","> 3 tahun",2,2,1,2,2,1,2,1,4,1,3,4,3,3,4,3,3,3,5,1,2,1,2,2,2,2,1,2,1,3,1,1,3,3,3
+"Owner 377",owner_377@example.com,"UMKM 377","Food and Beverage","> 3 tahun",2,1,1,2,2,1,4,4,4,3,4,4,4,4,4,4,3,5,5,5,2,5,5,5,5,5,3,3,3,3,4,2,4,4,4
+"Owner 378",owner_378@example.com,"UMKM 378","Food and Beverage","1 - 3 tahun",1,2,1,2,2,1,3,4,4,4,4,4,4,1,4,4,4,4,5,2,3,2,2,2,5,1,2,2,2,2,2,2,1,1,2
+"Owner 379",owner_379@example.com,"UMKM 379","Food and Beverage","1 - 3 tahun",2,2,2,2,2,2,3,3,1,1,4,2,4,4,2,4,5,4,5,5,2,4,4,4,5,5,2,2,2,2,2,1,1,1,1
+"Owner 380",owner_380@example.com,"UMKM 380","Food and Beverage","< 1 tahun",2,2,2,2,2,1,3,3,1,4,4,4,4,2,3,2,3,2,2,5,5,5,5,5,5,5,2,2,3,2,3,2,2,1,2
+"Owner 381",owner_381@example.com,"UMKM 381","Food and Beverage","1 - 3 tahun",3,2,3,2,2,3,3,3,4,2,3,3,3,4,4,3,3,3,4,4,4,4,3,3,5,5,2,3,3,3,3,1,1,1,1
+"Owner 382",owner_382@example.com,"UMKM 382","Food and Beverage","1 - 3 tahun",2,2,2,2,2,1,4,3,4,4,3,4,3,3,3,3,3,3,3,4,5,5,5,5,5,5,3,3,3,2,3,2,2,2,2
+"Owner 383",owner_383@example.com,"UMKM 383","Food and Beverage","1 - 3 tahun",2,2,1,2,2,2,4,4,4,4,4,3,2,2,2,2,3,2,2,2,2,2,2,2,5,2,2,2,2,2,2,1,4,4,4
+"Owner 384",owner_384@example.com,"UMKM 384",Fashion,"1 - 3 tahun",2,2,2,2,2,1,3,3,4,3,3,3,3,3,4,3,4,3,4,4,3,3,3,3,5,3,2,2,3,2,2,1,2,1,2
+"Owner 385",owner_385@example.com,"UMKM 385","Food and Beverage","> 3 tahun",2,2,1,2,2,1,2,3,3,3,3,3,3,3,4,4,3,4,3,4,4,3,3,3,3,4,2,2,2,2,2,1,1,1,1
+"Owner 386",owner_386@example.com,"UMKM 386",Fashion,"> 3 tahun",2,2,1,2,2,2,3,3,4,4,2,4,4,1,3,4,4,5,4,5,5,5,5,4,5,5,2,2,2,2,2,1,4,4,4
+"Owner 387",owner_387@example.com,"UMKM 387","Wholesale and retail","> 3 tahun",2,2,2,2,2,1,2,2,4,3,3,2,3,3,4,3,3,2,3,3,4,4,3,3,5,3,4,3,4,3,4,2,3,2,3
+"Owner 388",owner_388@example.com,"UMKM 388",Fashion,"> 3 tahun",2,2,2,2,2,1,3,4,2,2,2,4,4,3,4,4,5,4,5,4,4,4,4,4,5,5,3,2,3,3,2,2,2,1,2
+"Owner 389",owner_389@example.com,"UMKM 389","Food and Beverage","1 - 3 tahun",2,2,2,2,2,1,3,2,4,4,3,2,3,2,3,3,3,2,5,4,4,4,4,4,1,4,2,3,2,2,2,3,1,1,1
+"Owner 390",owner_390@example.com,"UMKM 390","Food and Beverage","> 3 tahun",2,2,1,2,2,2,3,3,3,3,4,2,4,2,3,2,2,2,2,5,3,4,4,3,5,4,2,2,2,2,2,1,1,1,1
+"Owner 391",owner_391@example.com,"UMKM 391","Food and Beverage","> 3 tahun",2,2,1,2,2,1,2,3,1,1,3,2,3,3,3,3,3,4,5,4,4,4,4,4,1,4,3,3,2,3,2,1,4,4,4
+"Owner 392",owner_392@example.com,"UMKM 392","Food and Beverage","> 3 tahun",1,2,1,2,1,1,3,4,1,1,4,2,2,2,3,3,2,1,2,4,4,4,4,4,4,4,2,2,2,3,3,2,2,1,2
+"Owner 393",owner_393@example.com,"UMKM 393","Food and Beverage","> 3 tahun",2,2,1,2,1,1,3,2,1,1,2,2,2,4,2,2,2,1,3,3,5,5,5,5,5,5,2,2,2,2,2,2,2,2,2
+"Owner 394",owner_394@example.com,"UMKM 394","Food and Beverage","> 3 tahun",2,2,1,2,2,2,4,3,4,2,4,4,3,2,4,4,3,1,5,5,4,4,4,4,5,5,2,3,2,2,2,2,2,2,2
+"Owner 395",owner_395@example.com,"UMKM 395","Food and Beverage","> 3 tahun",1,2,1,1,2,2,3,4,2,2,3,3,3,4,3,4,4,5,5,5,5,5,5,5,1,5,3,3,3,2,2,2,4,4,4
+"Owner 396",owner_396@example.com,"UMKM 396","Food and Beverage","> 3 tahun",2,2,2,2,2,1,4,2,2,1,4,2,4,3,4,4,4,1,4,3,5,5,5,5,5,5,3,3,1,1,1,1,1,1,1
+"Owner 397",owner_397@example.com,"UMKM 397","Wholesale and retail","> 3 tahun",2,2,1,2,2,1,3,3,3,4,3,3,4,4,3,4,4,2,5,5,5,5,5,4,4,5,3,1,2,3,3,2,2,1,2
+"Owner 398",owner_398@example.com,"UMKM 398","Food and Beverage","> 3 tahun",2,2,1,2,2,2,3,3,3,3,2,3,4,4,4,4,4,1,4,3,5,5,5,4,5,5,2,3,2,3,3,2,2,2,4
+"Owner 399",owner_399@example.com,"UMKM 399","Food and Beverage","1 - 3 tahun",2,2,1,2,2,2,3,3,4,4,2,4,4,3,3,4,5,1,5,5,5,5,5,5,5,5,2,3,3,2,2,1,3,4,1
+"Owner 400",owner_400@example.com,"UMKM 400","Wholesale and retail","> 3 tahun",2,2,1,2,2,2,3,3,2,3,3,2,4,4,5,4,4,2,3,4,3,3,4,2,5,5,4,3,4,3,2,2,3,3,3
+"Owner 401",owner_401@example.com,"UMKM 401","Food and Beverage","1 - 3 tahun",2,2,1,2,1,2,4,4,2,3,3,4,3,4,4,3,3,2,2,2,5,5,5,5,5,1,3,3,2,3,2,2,1,1,1
+"Owner 402",owner_402@example.com,"UMKM 402","Food and Beverage","> 3 tahun",2,2,1,2,2,1,4,4,4,4,4,4,4,4,4,3,4,1,2,2,2,2,2,2,5,2,2,2,3,3,3,2,2,1,2
+"Owner 403",owner_403@example.com,"UMKM 403","Wholesale and retail","> 3 tahun",1,2,1,1,1,2,2,2,2,2,3,2,4,4,4,4,4,2,5,4,5,5,5,5,5,2,3,3,2,3,1,4,4,4,4
+"Owner 404",owner_404@example.com,"UMKM 404","Food and Beverage","> 3 tahun",1,1,1,2,1,1,3,3,3,2,3,3,4,4,4,3,4,1,4,2,2,2,2,2,5,2,2,2,3,3,2,3,3,3,3
+"Owner 405",owner_405@example.com,"UMKM 405","Food and Beverage","> 3 tahun",2,2,1,2,1,1,3,3,3,3,3,2,4,4,4,4,4,5,2,2,2,2,2,2,2,2,2,2,1,2,2,1,4,4,4
+"Owner 406",owner_406@example.com,"UMKM 406","Food and Beverage","> 3 tahun",2,1,1,2,1,1,4,4,4,3,4,4,2,4,2,3,2,2,2,2,2,2,2,2,2,2,4,3,4,4,4,1,2,2,2
+"Owner 407",owner_407@example.com,"UMKM 407","Food and Beverage","> 3 tahun",4,3,1,4,4,4,3,4,3,4,4,4,4,4,4,3,5,2,2,2,2,2,2,3,3,3,2,2,2,1,2,3,1,1,1
+"Owner 408",owner_408@example.com,"UMKM 408","Food and Beverage","> 3 tahun",2,2,1,3,3,3,3,3,3,3,3,3,4,3,2,2,3,3,3,3,3,3,3,2,2,2,2,2,1,1,2,2,1,2,2
+"Owner 409",owner_409@example.com,"UMKM 409","Food and Beverage","< 1 tahun",2,1,1,1,1,1,4,4,4,3,4,4,4,4,4,4,5,5,5,3,5,5,5,5,5,2,4,4,4,3,4,1,1,1,1
+"Owner 410",owner_410@example.com,"UMKM 410",Fashion,"> 3 tahun",2,2,1,2,1,1,2,4,4,4,4,4,4,2,2,1,2,4,4,4,5,5,5,5,5,2,2,2,1,2,2,2,4,4,4
+"Owner 411",owner_411@example.com,"UMKM 411","Food and Beverage","> 3 tahun",4,4,1,4,4,4,3,3,3,3,3,3,3,3,3,3,3,4,4,2,3,3,3,3,3,2,2,1,1,1,2,1,2,2,2
+"Owner 412",owner_412@example.com,"UMKM 412","Food and Beverage","> 3 tahun",1,2,1,2,1,1,1,1,2,2,4,1,2,4,4,4,4,5,5,4,5,5,5,5,5,2,1,2,2,1,2,3,2,1,2
+"Owner 413",owner_413@example.com,"UMKM 413","Food and Beverage","> 3 tahun",3,3,1,3,4,4,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,1,2,1,1,1,4,4,4,4,4
+"Owner 414",owner_414@example.com,"UMKM 414","Food and Beverage","> 3 tahun",2,1,1,2,1,2,1,2,2,1,2,2,2,3,3,3,4,2,3,3,3,3,3,3,3,3,2,2,2,2,4,1,4,3,4
+"Owner 415",owner_415@example.com,"UMKM 415","Food and Beverage","> 3 tahun",2,2,1,2,2,1,4,4,4,4,4,4,4,4,4,4,3,4,4,2,5,5,5,5,5,2,2,2,2,1,2,1,1,1,4
+"Owner 416",owner_416@example.com,"UMKM 416","Food and Beverage","> 3 tahun",2,1,1,2,1,2,4,4,1,4,4,4,4,4,4,4,4,2,4,2,5,5,5,5,5,2,2,2,1,2,2,1,4,4,2
+"Owner 417",owner_417@example.com,"UMKM 417","Food and Beverage","> 3 tahun",2,2,1,2,1,1,4,3,4,4,4,5,4,4,5,4,5,5,5,2,5,5,5,5,5,2,4,2,3,3,3,1,4,4,1
+"Owner 418",owner_418@example.com,"UMKM 418","Food and Beverage","< 1 tahun",2,2,1,2,1,2,3,4,4,4,4,4,3,3,4,3,4,4,5,2,5,5,2,5,5,2,1,1,1,1,3,2,3,3,1
+"Owner 419",owner_419@example.com,"UMKM 419","Food and Beverage","< 1 tahun",2,1,1,2,1,1,2,2,1,2,2,2,3,3,3,2,3,2,3,3,3,3,3,3,3,3,2,2,1,1,2,2,2,2,2
+"Owner 420",owner_420@example.com,"UMKM 420","Food and Beverage","> 3 tahun",2,1,1,2,1,1,3,4,5,3,4,4,4,4,4,4,5,2,3,3,3,3,3,3,3,3,4,4,3,4,3,2,1,2,2
+"Owner 421",owner_421@example.com,"UMKM 421","Food and Beverage","< 1 tahun",2,1,1,2,1,1,4,5,4,3,4,3,3,5,5,4,3,1,5,4,5,5,5,4,4,2,3,3,3,3,2,2,1,2,1
+"Owner 422",owner_422@example.com,"UMKM 422","Food and Beverage","< 1 tahun",2,2,1,2,1,1,4,4,4,2,5,4,3,3,3,3,4,1,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4,3,4
+"Owner 423",owner_423@example.com,"UMKM 423","Food and Beverage","1 - 3 tahun",2,2,1,2,2,1,3,3,3,3,3,3,3,3,3,3,3,3,4,4,2,5,5,2,4,4,4,2,4,3,3,4,4,1,1
+"Owner 424",owner_424@example.com,"UMKM 424","Food and Beverage","> 3 tahun",2,2,1,2,2,3,3,4,4,3,2,4,2,3,2,2,2,2,5,2,2,2,2,1,2,2,1,1,1,2,1,3,3,3,3
+"Owner 425",owner_425@example.com,"UMKM 425","Food and Beverage","> 3 tahun",1,1,1,1,1,1,3,2,2,1,2,2,3,4,3,4,3,3,5,2,2,2,2,2,2,2,3,2,1,1,2,1,1,1,1
+"Owner 426",owner_426@example.com,"UMKM 426","Food and Beverage","> 3 tahun",1,1,1,1,1,1,3,2,1,2,2,2,3,3,3,3,3,4,4,2,3,3,2,2,2,5,2,1,2,1,1,1,1,1,1
+"Owner 427",owner_427@example.com,"UMKM 427","Food and Beverage","> 3 tahun",1,1,1,1,1,1,3,3,3,3,3,3,3,4,4,4,4,4,4,2,3,3,3,3,2,3,3,3,3,1,3,1,1,1,1
+"Owner 428",owner_428@example.com,"UMKM 428","Food and Beverage","> 3 tahun",1,1,1,1,1,1,3,3,3,3,3,3,3,2,2,3,2,3,3,4,2,4,4,4,4,4,2,2,2,3,3,1,1,1,1
+"Muhammad Nur Ilham",admin1@gmail.com,"Bang Her Nasgor & Kwetiau","Food and Beverage","< 1 tahun",2,2,2,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Muhammad Nur Ilham",admin1@gmail.com,"Bang Her Nasgor & Kwetiau","Food and Beverage","< 1 tahun",2,2,2,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Muhammad Nur Ilham",admin1@gmail.com,"Bang Her Nasgor & Kwetiau","Food and Beverage","< 1 tahun",1,2,2,5,2,,2,4,4,1,2,4,3,2,5,2,4,2,4,4,1,4,2,3,4,2,4,2,3,2,4,3,4,2,4
+AkuOwner,akuudahsiap@gmail.com,Lemonia,"Food and Beverage","1 - 3 tahun",5,5,5,5,5,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AkuOwner,akuudahsiap@gmail.com,Lemonia,"Food and Beverage","1 - 3 tahun",1,1,1,5,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AkuOwner,akuudahsiap@gmail.com,Lemonia,"Food and Beverage","1 - 3 tahun",1,1,1,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AkuOwner,akuudahsiap@gmail.com,Lemonia,"Food and Beverage","1 - 3 tahun",1,1,1,5,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AkuOwner,akuudahsiap@gmail.com,Lemonia,"Food and Beverage","1 - 3 tahun",5,5,5,5,5,,5,5,5,5,5,5,5,4,4,4,4,4,4,5,4,4,5,4,4,5,4,5,4,5,4,5,4,5,1
+AkuOwner,akuudahsiap@gmail.com,Doodloo,"Wholesale and retail","< 1 tahun",2,2,2,2,2,2,5,5,4,5,5,5,5,4,5,4,5,5,5,5,4,5,4,5,5,3,3,3,3,3,3,3,3,3,3
+AkuOwner,akuudahsiap@gmail.com,Lemonia,"Food and Beverage","1 - 3 tahun",3,3,2,3,3,2,3,4,3,4,3,5,5,4,3,4,4,1,4,4,4,3,4,4,4,5,4,5,4,5,5,4,5,4,5
+ilham,akunyoba@gmail.com,"Roti Bang Jhon","Food and Beverage","1 - 3 tahun",3,2,3,3,3,2,4,3,5,4,5,4,5,4,1,5,4,3,4,5,4,4,5,4,5,4,3,4,5,4,5,3,4,4,5
+baru,akubaru@gmail.com,"Roti Bang Jhon CIputat","Food and Beverage","1 - 3 tahun",3,3,3,2,3,2,4,5,4,4,5,4,4,4,5,5,4,5,4,5,4,4,5,4,5,4,3,5,4,4,5,4,4,4,5
+baru,akubaru@gmail.com,"Roti Bang Jhon CIputat","Food and Beverage","1 - 3 tahun",1,2,3,2,3,3,5,4,5,4,5,4,1,5,4,5,4,5,4,5,4,5,5,4,5,5,5,5,5,4,4,5,4,5,4

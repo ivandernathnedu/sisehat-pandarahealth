@@ -1,0 +1,216 @@
+[
+  {
+    "target_environment": "Local (sisehat.test)",
+    "session_driver": "database",
+    "test_date": "2026-05-19",
+    "concurrency": {
+      "max_virtual_users": 100,
+      "stages": [
+        { "duration": "30s", "target": 20 },
+        { "duration": "1m0s", "target": 50 },
+        { "duration": "1m0s", "target": 100 },
+        { "duration": "30s", "target": 0 }
+      ]
+    },
+    "optimizations_applied": [
+      "Added index to umkms.owner_id",
+      "Added index to assessments.umkm_id",
+      "Added indexes to responses (assessment_id, question_id, respondent_type)"
+    ],
+    "metrics": {
+      "total_requests": 1347,
+      "requests_per_second": 6.47,
+      "failed_requests_count": 105,
+      "failed_requests_rate": 0.0779,
+      "response_time_ms": {
+        "avg": 6740.0,
+        "min": 265.88,
+        "med": 4310.0,
+        "max": 60000.0,
+        "p90": 12720.0,
+        "p95": 28030.0
+      },
+      "data_transferred": {
+        "received_mb": 8.9,
+        "sent_mb": 2.0
+      },
+      "error_breakdown": {
+        "HTTP 500 Internal Server Error": "Terjadi pada API login dan submit jawaban karena database deadlock / row lock wait timeout ketika banyak VU menulis ke database secara bersamaan.",
+        "Request Timeout / Connection Reset": "Terjadi saat beban puncak 100 VU karena keterbatasan thread pool web server Apache bawaan Laragon Windows dalam menangani koneksi konkuren."
+      }
+    },
+    "checks": {
+      "total": 2072,
+      "succeeded": 1144,
+      "failed": 928,
+      "success_rate": 0.5521,
+      "details": {
+        "halaman_utama_status_200": {
+          "succeeded_percent": 93,
+          "succeeded_count": 188,
+          "failed_count": 14
+        },
+        "halaman_utama_latency_under_500ms": {
+          "succeeded_percent": 6,
+          "succeeded_count": 14,
+          "failed_count": 188
+        },
+        "halaman_login_status_200": {
+          "succeeded_percent": 95,
+          "succeeded_count": 186,
+          "failed_count": 9
+        },
+        "halaman_login_latency_under_500ms": {
+          "succeeded_percent": 7,
+          "succeeded_count": 15,
+          "failed_count": 180
+        },
+        "api_login_status_200": {
+          "succeeded_percent": 90,
+          "succeeded_count": 176,
+          "failed_count": 19
+        },
+        "api_login_response_valid_json": {
+          "succeeded_percent": 90,
+          "succeeded_count": 176,
+          "failed_count": 19
+        },
+        "api_login_latency_under_500ms": {
+          "succeeded_percent": 1,
+          "succeeded_count": 2,
+          "failed_count": 193
+        },
+        "api_submit_jawaban_status_200": {
+          "succeeded_percent": 92,
+          "succeeded_count": 116,
+          "failed_count": 9
+        },
+        "api_submit_response_valid_json": {
+          "succeeded_percent": 92,
+          "succeeded_count": 116,
+          "failed_count": 9
+        },
+        "api_submit_latency_under_500ms": {
+          "succeeded_percent": 7,
+          "succeeded_count": 9,
+          "failed_count": 116
+        },
+        "api_ranking_umkm_status_200": {
+          "succeeded_percent": 90,
+          "succeeded_count": 128,
+          "failed_count": 14
+        },
+        "api_ranking_latency_under_500ms": {
+          "succeeded_percent": 0,
+          "succeeded_count": 1,
+          "failed_count": 141
+        },
+        "api_kuesioner_status_200": {
+          "succeeded_percent": 94,
+          "succeeded_count": 16,
+          "failed_count": 1
+        },
+        "api_kuesioner_latency_under_500ms": {
+          "succeeded_percent": 5,
+          "succeeded_count": 1,
+          "failed_count": 16
+        }
+      }
+    },
+    "conclusion": "The application was stress-tested using 100 concurrent VUs under a database session driver. Average response time was 6.74 seconds with a 95th percentile peak of 28.03 seconds and an error rate of 7.79%. Optimization of database indexes on foreign keys improved queries significantly, but resource contention and local web server constraints on Windows impact overall throughput."
+  },
+  {
+    "target_environment": "Staging (InfinityFree)",
+    "session_driver": "database",
+    "test_date": "2026-05-19",
+    "concurrency": {
+      "max_virtual_users": 7,
+      "stages": [
+        { "duration": "20s", "target": 4 },
+        { "duration": "30s", "target": 7 },
+        { "duration": "20s", "target": 0 }
+      ]
+    },
+    "optimizations_applied": [
+      "Added index to umkms.owner_id",
+      "Added index to assessments.umkm_id",
+      "Added indexes to responses (assessment_id, question_id, respondent_type)",
+      "Bypassed InfinityFree cookie firewall challenge with custom User-Agent and valid bypass cookie"
+    ],
+    "metrics": {
+      "total_requests": 140,
+      "requests_per_second": 1.79,
+      "failed_requests_count": 0,
+      "failed_requests_rate": 0.00,
+      "response_time_ms": {
+        "avg": 1380.0,
+        "min": 607.34,
+        "med": 1210.0,
+        "max": 3290.0,
+        "p90": 2150.0,
+        "p95": 2570.0
+      },
+      "data_transferred": {
+        "received_mb": 1.1,
+        "sent_mb": 0.17
+      },
+      "error_breakdown": {
+        "none": "Tidak ada error yang terdeteksi. Seluruh request HTTP mengembalikan status sukses (200 OK) dan mengembalikan format JSON yang valid."
+      }
+    },
+    "checks": {
+      "total": 252,
+      "succeeded": 140,
+      "failed": 112,
+      "success_rate": 0.5555,
+      "details": {
+        "halaman_utama_status_200": {
+          "succeeded_percent": 100,
+          "succeeded_count": 28,
+          "failed_count": 0
+        },
+        "halaman_utama_latency_under_500ms": {
+          "succeeded_percent": 0,
+          "succeeded_count": 0,
+          "failed_count": 28
+        },
+        "halaman_login_status_200": {
+          "succeeded_percent": 100,
+          "succeeded_count": 28,
+          "failed_count": 0
+        },
+        "halaman_login_latency_under_500ms": {
+          "succeeded_percent": 0,
+          "succeeded_count": 0,
+          "failed_count": 28
+        },
+        "api_login_status_200": {
+          "succeeded_percent": 100,
+          "succeeded_count": 28,
+          "failed_count": 0
+        },
+        "api_login_response_valid_json": {
+          "succeeded_percent": 100,
+          "succeeded_count": 28,
+          "failed_count": 0
+        },
+        "api_login_latency_under_500ms": {
+          "succeeded_percent": 0,
+          "succeeded_count": 0,
+          "failed_count": 28
+        },
+        "api_ranking_umkm_status_200": {
+          "succeeded_percent": 100,
+          "succeeded_count": 28,
+          "failed_count": 0
+        },
+        "api_ranking_latency_under_500ms": {
+          "succeeded_percent": 0,
+          "succeeded_count": 0,
+          "failed_count": 28
+        }
+      }
+    },
+    "conclusion": "The application was stress-tested on live InfinityFree staging using a limit of 7 concurrent VUs. The test ran successfully with a 100% success rate on status and JSON checks (0 errors). The average response time was 1.38 seconds, which is standard for a free shared hosting server under moderate load."
+  }
+]

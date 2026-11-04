@@ -1,0 +1,36 @@
+nama_factor,pertanyaan,question_role,urutan
+"Institutional resources","Apakah bisnis Anda memiliki Nomor Induk Berusaha (NIB)?",owner,1
+"Institutional resources","Apakah Anda pernah menerima bantuan dana pemerintah untuk mendukung bisnis Anda?",owner,2
+"Institutional resources","Apakah Anda pernah mengikuti kegiatan yang diselenggarakan pemerintah (misal: pelatihan, lokakarya, atau pameran)?",owner,3
+"Institutional resources","Apakah Anda berkolaborasi dengan pedagang atau bisnis lain untuk mengembangkan bisnis Anda?",owner,4
+"Institutional resources","Apakah Anda menggunakan pemasaran digital (misal: media sosial, website, atau iklan online) untuk mempromosikan bisnis Anda?",owner,5
+"Institutional resources","Apa sumber modal utama untuk bisnis Anda?",owner,6
+"Leader involvement","Pemimpin Anda peduli terhadap karyawan secara personal",employee,7
+"Leader involvement","Pemimpin Anda bertindak sebagai panutan bagi karyawan",employee,8
+"Leader involvement","Pemimpin Anda menerapkan ide atau saran dari karyawan",employee,9
+"Leader involvement","Pemimpin Anda terlibat langsung dalam pekerjaan sehari-hari",employee,10
+"Leader involvement","Pemimpin Anda secara aktif berpartisipasi dalam melatih karyawan baru",employee,11
+"Leader involvement","Pemimpin Anda memperlakukan karyawan secara adil saat memberikan hukuman dan penghargaan",employee,12
+"Operational stability","Tempat kerja bebas dari kecelakaan terkait pekerjaan",employee,13
+"Operational stability","Saya puas dengan jam kerja yang ditetapkan di perusahaan ini",employee,14
+"Operational stability","Beban kerja saya dapat dikelola dengan baik",employee,15
+"Operational stability","Kondisi fisik tempat kerja (misal: kebisingan, pencahayaan, suhu) nyaman",employee,16
+"Operational stability","Sebagian besar karyawan bertanggung jawab dan jarang membolos tanpa alasan yang sah",employee,17
+"Organizational values","Saya merasa bebas untuk membicarakan kesulitan terkait pekerjaan dengan pimpinan atau rekan kerja saya",employee,18
+"Organizational values","Suasana di tempat kerja saya positif dan suportif",employee,19
+"Organizational values","Semangat kerja karyawan di tempat kerja saya secara umum tinggi",employee,20
+"Organizational values","Karyawan di tempat kerja saya saling membantu saat dibutuhkan",employee,21
+"Organizational values","Tingkat kepercayaan antar karyawan di tempat kerja saya sangat kuat",employee,22
+"Organizational values","Kerja sama tim di tempat kerja saya efektif",employee,23
+"Organizational values","Karyawan di tempat kerja saya saling memperlakukan dengan hormat",employee,24
+"Work environment quality","Karyawan di tempat kerja saya memandang pekerjaan mereka sebagai bentuk dedikasi atau ibadah",employee,25
+"Work environment quality","Modal kerja memadai untuk operasi bisnis sehari-hari",owner,26
+"Work environment quality","Perusahaan mampu membayar gaji karyawan tepat waktu",owner,27
+"Work environment quality","Peralatan/mesin dalam kondisi baik dan berfungsi optimal",owner,28
+"Work environment quality","Rantai pasokan bisnis berjalan lancar tanpa gangguan signifikan",owner,29
+"Work environment quality","Permintaan untuk produk/layanan dapat diprediksi",owner,30
+"Economics performance","Kualitas hubungan jangka panjang bisnis dengan pelanggan sangat baik",owner,31
+"Economics performance","Kemampuan bisnis kami untuk menjangkau pasar atau pelanggan baru sangat baik",owner,32
+"Economics performance","Pertumbuhan penjualan bisnis kami selama setahun terakhir sangat memuaskan",owner,33
+"Economics performance","Kewajiban bisnis kami (misalnya, pinjaman, hutang) sangat dapat dikelola",owner,34
+"Economics performance","Situasi arus kas bisnis kami sangat sehat dan stabil",owner,35 
