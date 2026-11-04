@@ -9,9 +9,16 @@ return new class extends Migration
 {
     public function up(): void
     {
-        // 1. Cek tipe kolom saat ini
-        $columnInfo = DB::select("SHOW COLUMNS FROM umkms LIKE 'umkm_id'")[0];
-        $isAlreadyString = str_contains($columnInfo->Type, 'varchar');
+        $driver = DB::getDriverName();
+
+        // Untuk MySQL: cek apakah kolom sudah varchar
+        if ($driver === 'mysql') {
+            $columnInfo = DB::select("SHOW COLUMNS FROM umkms LIKE 'umkm_id'")[0];
+            $isAlreadyString = str_contains($columnInfo->Type, 'varchar');
+        } else {
+            // SQLite atau driver lain: anggap sudah string (skip konversi)
+            $isAlreadyString = true;
+        }
 
         if (!$isAlreadyString) {
             // Ambil data lama hanya jika masih integer
@@ -22,8 +29,7 @@ return new class extends Migration
                 $table->string('umkm_id', 10)->nullable()->change();
             });
 
-            // 3. Ubah umkm_id di tabel umkms
-            // Matikan auto-increment dan ubah ke string
+            // 3. Ubah umkm_id di tabel umkms (MySQL only)
             DB::statement('ALTER TABLE umkms MODIFY umkm_id INT NOT NULL');
             DB::statement('ALTER TABLE umkms DROP PRIMARY KEY');
             DB::statement('ALTER TABLE umkms MODIFY umkm_id VARCHAR(10) NOT NULL PRIMARY KEY');
@@ -31,13 +37,11 @@ return new class extends Migration
             // 4. Migrasi Data
             foreach ($oldUmkms as $umkm) {
                 $newId = 'UMKM' . str_pad($umkm->umkm_id, 3, '0', STR_PAD_LEFT);
-                
                 DB::table('umkms')->where('umkm_id', (string)$umkm->umkm_id)->update(['umkm_id' => $newId]);
                 DB::table('assessments')->where('umkm_id', (string)$umkm->umkm_id)->update(['umkm_id' => $newId]);
             }
         } else {
-            // Jika sudah string, pastikan saja data assessments sinkron (untuk jaga-jaga)
-            echo "Kolom umkm_id sudah bertipe string. Melewati perubahan skema.\n";
+            echo "Kolom umkm_id sudah bertipe string atau bukan MySQL. Melewati perubahan skema.\n";
         }
     }
 
