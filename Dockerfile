@@ -3,7 +3,7 @@ FROM php:8.3-apache
 # 1. Pasang dependensi sistem & driver MySQL + ekstensi PHP yang dibutuhkan Laravel
 RUN apt-get update && apt-get install -y \
     libpq-dev \
-    libmysqlclient-dev \
+    default-libmysqlclient-dev \
     zip \
     unzip \
     git \
