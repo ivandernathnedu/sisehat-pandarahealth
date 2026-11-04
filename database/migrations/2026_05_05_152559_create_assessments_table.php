@@ -14,7 +14,7 @@ return new class extends Migration
         if (!Schema::hasTable('assessments')) {
             Schema::create('assessments', function (Blueprint $table) {
                 $table->increments('assessment_id');
-                $table->unsignedInteger('umkm_id')->nullable();
+                $table->string('umkm_id', 10)->nullable();
                 $table->string('assessment_name', 150)->nullable();
                 $table->string('token', 100)->unique()->nullable();
                 $table->date('tanggal_mulai')->nullable();

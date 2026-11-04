@@ -5,7 +5,12 @@ set -e
 
 echo "🚀 Memulai Konfigurasi Otomatis Deployment SiSehat..."
 
-# 1. Jalankan Migrasi Tabel PostgreSQL
+# Pastikan file database sqlite ada jika menggunakan sqlite
+mkdir -p database
+touch database/database.sqlite
+chmod -R 777 database
+
+# 1. Jalankan Migrasi Tabel
 echo "⚙️ Menjalankan Database Migrations..."
 php artisan migrate --force
 

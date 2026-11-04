@@ -10,7 +10,7 @@ return new class extends Migration
     {
         if (!Schema::hasTable('umkms')) {
             Schema::create('umkms', function (Blueprint $table) {
-                $table->increments('umkm_id');
+                $table->string('umkm_id', 10)->primary();
                 $table->unsignedInteger('owner_id');
                 $table->string('nama_umkm');
                 $table->string('sektor_usaha')->nullable();
